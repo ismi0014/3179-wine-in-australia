@@ -1,0 +1,50 @@
+id,parent,name,tonnes,colour,state
+Australia,,Australia,,,
+South Australia,Australia,South Australia,,,South Australia
+New South Wales,Australia,New South Wales,,,New South Wales
+Victoria,Australia,Victoria,,,Victoria
+Western Australia,Australia,Western Australia,,,Western Australia
+Tasmania,Australia,Tasmania,,,Tasmania
+South Australia | Shiraz,South Australia,Shiraz,212049,Red,South Australia
+South Australia | Chardonnay,South Australia,Chardonnay,119736,White,South Australia
+South Australia | Other varieties,South Australia,Other varieties,118576,Other,South Australia
+South Australia | Cabernet Sauvignon,South Australia,Cabernet Sauvignon,94913,Red,South Australia
+South Australia | Merlot,South Australia,Merlot,34931,Red,South Australia
+South Australia | Sauvignon Blanc,South Australia,Sauvignon Blanc,33051,White,South Australia
+South Australia | Muscat of Alexandria,South Australia,Muscat of Alexandria,23032,White,South Australia
+South Australia | Pinot Gris,South Australia,Pinot Gris,15289,White,South Australia
+South Australia | Sémillon,South Australia,Sémillon,10409,White,South Australia
+New South Wales | Other varieties,New South Wales,Other varieties,75477,Other,New South Wales
+New South Wales | Chardonnay,New South Wales,Chardonnay,67778,White,New South Wales
+New South Wales | Shiraz,New South Wales,Shiraz,56235,Red,New South Wales
+New South Wales | Sauvignon Blanc,New South Wales,Sauvignon Blanc,27225,White,New South Wales
+New South Wales | Sémillon,New South Wales,Sémillon,24529,White,New South Wales
+New South Wales | Pinot Gris,New South Wales,Pinot Gris,23404,White,New South Wales
+New South Wales | Cabernet Sauvignon,New South Wales,Cabernet Sauvignon,20873,Red,New South Wales
+New South Wales | Merlot,New South Wales,Merlot,17765,Red,New South Wales
+New South Wales | Muscat of Alexandria,New South Wales,Muscat of Alexandria,8705,White,New South Wales
+Victoria | Shiraz,Victoria,Shiraz,39204,Red,Victoria
+Victoria | Other varieties,Victoria,Other varieties,36925,Other,Victoria
+Victoria | Chardonnay,Victoria,Chardonnay,33271,White,Victoria
+Victoria | Cabernet Sauvignon,Victoria,Cabernet Sauvignon,13513,Red,Victoria
+Victoria | Pinot Gris,Victoria,Pinot Gris,10781,White,Victoria
+Victoria | Sauvignon Blanc,Victoria,Sauvignon Blanc,8351,White,Victoria
+Victoria | Merlot,Victoria,Merlot,6400,Red,Victoria
+Victoria | Muscat of Alexandria,Victoria,Muscat of Alexandria,6038,White,Victoria
+Victoria | Sémillon,Victoria,Sémillon,3219,White,Victoria
+Western Australia | Sauvignon Blanc,Western Australia,Sauvignon Blanc,8315,White,Western Australia
+Western Australia | Cabernet Sauvignon,Western Australia,Cabernet Sauvignon,7724,Red,Western Australia
+Western Australia | Chardonnay,Western Australia,Chardonnay,6638,White,Western Australia
+Western Australia | Sémillon,Western Australia,Sémillon,6363,White,Western Australia
+Western Australia | Shiraz,Western Australia,Shiraz,6216,Red,Western Australia
+Western Australia | Other varieties,Western Australia,Other varieties,4483,Other,Western Australia
+Western Australia | Merlot,Western Australia,Merlot,1421,Red,Western Australia
+Western Australia | Pinot Gris,Western Australia,Pinot Gris,289,White,Western Australia
+Western Australia | Muscat of Alexandria,Western Australia,Muscat of Alexandria,2,White,Western Australia
+Tasmania | Other varieties,Tasmania,Other varieties,5921,Other,Tasmania
+Tasmania | Chardonnay,Tasmania,Chardonnay,2726,White,Tasmania
+Tasmania | Sauvignon Blanc,Tasmania,Sauvignon Blanc,940,White,Tasmania
+Tasmania | Pinot Gris,Tasmania,Pinot Gris,881,White,Tasmania
+Tasmania | Shiraz,Tasmania,Shiraz,103,Red,Tasmania
+Tasmania | Cabernet Sauvignon,Tasmania,Cabernet Sauvignon,69,Red,Tasmania
+Tasmania | Merlot,Tasmania,Merlot,49,Red,Tasmania

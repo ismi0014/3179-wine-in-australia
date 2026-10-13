@@ -1,0 +1,98 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Four ways to compare 15 wine regions",
+    "width": "container",
+    "height": 340,
+    "autosize": {"type": "fit", "contains": "padding"},
+    "data": {"url": "data/regions_profile.csv"},
+    "transform": [
+        {"window": [{"op": "row_number", "as": "idx"}]},
+        {"fold": ["tonnes", "temp_c", "score", "bottle_usd"]},
+        {
+        "joinaggregate": [
+            {"op": "min", "field": "value", "as": "min"},
+            {"op": "max", "field": "value", "as": "max"}
+        ],
+        "groupby": ["key"]
+        },
+        {"calculate": "(datum.value - datum.min) / (datum.max - datum.min)", "as": "norm_val"},
+        {
+        "calculate": "datum.key == 'tonnes' ? format(datum.max, ',.0f') : datum.key == 'temp_c' ? format(datum.max, '.1f') + '°C' : datum.key == 'score' ? format(datum.max, '.1f') : '$' + format(datum.max, '.0f')",
+        "as": "maxlabel"
+        },
+        {
+        "calculate": "datum.key == 'tonnes' ? format(datum.min, ',.0f') : datum.key == 'temp_c' ? format(datum.min, '.1f') + '°C' : datum.key == 'score' ? format(datum.min, '.1f') : '$' + format(datum.min, '.0f')",
+        "as": "minlabel"
+        }
+    ],
+    "layer": [
+        {
+        "mark": {"type": "rule", "color": "#cccccc"},
+        "encoding": {
+            "detail": {"aggregate": "count"},
+            "x": {"field": "key", "type": "nominal", "sort": ["tonnes", "temp_c", "score", "bottle_usd"]}
+        }
+        },
+        {
+        "mark": {"type": "line", "strokeWidth": 2.5},
+        "params": [
+            {"name": "highlight", "select": {"type": "point", "fields": ["state"]}, "bind": "legend"}
+        ],
+        "encoding": {
+            "x": {"field": "key", "type": "nominal", "sort": ["tonnes", "temp_c", "score", "bottle_usd"]},
+            "y": {"field": "norm_val", "type": "quantitative", "axis": null, "scale": {"domain": [0, 1]}},
+            "detail": {"field": "region", "type": "nominal"},
+            "color": {
+            "field": "state",
+            "type": "nominal",
+            "title": "State (click to highlight)",
+            "scale": {
+                "domain": ["South Australia", "Victoria", "Western Australia", "New South Wales"],
+                "range": ["#c8742a", "#2f6f8f", "#5d8a3a", "#8a6bb0"]
+            }
+            },
+            "opacity": {"condition": {"param": "highlight", "value": 0.9}, "value": 0.12},
+            "tooltip": [
+            {"field": "region", "type": "nominal", "title": "Region"},
+            {"field": "state", "type": "nominal", "title": "State"},
+            {"field": "tonnes", "type": "quantitative", "title": "Grapes crushed 2023 (tonnes)", "format": ",.0f"},
+            {"field": "temp_c", "type": "quantitative", "title": "Growing-season temperature (°C)", "format": ".1f"},
+            {"field": "score", "type": "quantitative", "title": "Average expert score", "format": ".1f"},
+            {"field": "bottle_usd", "type": "quantitative", "title": "Median bottle price (US$)", "format": ",.0f"},
+            {"field": "reviews", "type": "quantitative", "title": "Number of reviews"}
+            ]
+        }
+        },
+        {
+        "transform": [{"filter": "datum.idx == 1"}],
+        "mark": {"type": "text", "style": "label"},
+        "encoding": {
+            "x": {"field": "key", "type": "nominal", "sort": ["tonnes", "temp_c", "score", "bottle_usd"]},
+            "y": {"value": 0},
+            "text": {"field": "maxlabel", "type": "nominal"}
+        }
+        },
+        {
+        "transform": [{"filter": "datum.idx == 1"}],
+        "mark": {"type": "text", "style": "label"},
+        "encoding": {
+            "x": {"field": "key", "type": "nominal", "sort": ["tonnes", "temp_c", "score", "bottle_usd"]},
+            "y": {"value": 340},
+            "text": {"field": "minlabel", "type": "nominal"}
+        }
+        }
+    ],
+    "config": {
+        "axisX": {
+        "domain": false,
+        "labelAngle": 0,
+        "tickColor": "#dddddd",
+        "title": null,
+        "labelPadding": 8,
+        "labelFontWeight": "bold",
+        "labelExpr": "datum.value == 'tonnes' ? 'Grapes crushed (tonnes)' : datum.value == 'temp_c' ? 'Growing-season temperature' : datum.value == 'score' ? 'Average expert score' : 'Median bottle price (US$)'"
+        },
+        "view": {"stroke": null},
+        "style": {"label": {"baseline": "middle", "align": "right", "dx": -6, "fontSize": 11}}
+    }
+}

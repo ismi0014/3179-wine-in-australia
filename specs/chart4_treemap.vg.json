@@ -1,0 +1,76 @@
+{
+    "$schema": "https://vega.github.io/schema/vega/v5.json",
+    "width": 780,
+    "height": 460,
+    "padding": 5,
+    "autosize": "none",
+    "title": {"text": "Who grows what? The 2023 harvest by state and grape", "fontSize": 13, "anchor": "middle", "offset": 8},
+    "data": [
+        {
+        "name": "tree",
+        "url": "data/treemap_2023.csv",
+        "format": {"type": "csv", "parse": {"tonnes": "number"}},
+        "transform": [
+            {"type": "stratify", "key": "id", "parentKey": "parent"},
+            {
+            "type": "treemap", "field": "tonnes",
+            "sort": {"field": "value", "order": "descending"},
+            "method": "squarify", "ratio": 1.4, "round": true,
+            "paddingInner": 2, "paddingTop": 20, "paddingLeft": 3, "paddingRight": 3, "paddingBottom": 3,
+            "size": [{"signal": "width"}, {"signal": "height"}]
+            }
+        ]
+        },
+        {"name": "states", "source": "tree", "transform": [{"type": "filter", "expr": "datum.depth === 1"}]},
+        {"name": "leaves", "source": "tree", "transform": [{"type": "filter", "expr": "!datum.children"}]}
+    ],
+    "scales": [
+        {"name": "color", "type": "ordinal", "domain": ["Red", "White", "Other"], "range": ["#7b2d3b", "#d9b44a", "#cfc8c4"]}
+    ],
+    "legends": [
+        {
+        "fill": "color", "title": "Grape type", "orient": "bottom", "direction": "horizontal",
+        "encode": {"labels": {"update": {"text": {"signal": "datum.value === 'Other' ? 'Other varieties (grouped)' : datum.value"}}}}
+        }
+    ],
+    "marks": [
+        {
+        "type": "rect", "from": {"data": "states"}, "interactive": false,
+        "encode": {"update": {
+            "x": {"field": "x0"}, "y": {"field": "y0"}, "x2": {"field": "x1"}, "y2": {"field": "y1"},
+            "fill": {"value": "#f3eeec"}
+        }}
+        },
+        {
+        "type": "rect", "from": {"data": "leaves"},
+        "encode": {
+            "enter": {"tooltip": {"signal": "{'State': datum.state, 'Grape': datum.name, 'Tonnes': format(datum.tonnes, ',.0f')}"}},
+            "update": {
+            "x": {"field": "x0"}, "y": {"field": "y0"}, "x2": {"field": "x1"}, "y2": {"field": "y1"},
+            "fill": {"scale": "color", "field": "colour"},
+            "stroke": {"value": "white"}, "strokeWidth": {"value": 1}
+            },
+            "hover": {"stroke": {"value": "#2b2226"}, "strokeWidth": {"value": 2.5}}
+        }
+        },
+        {
+        "type": "text", "from": {"data": "leaves"}, "interactive": false,
+        "encode": {"update": {
+            "x": {"signal": "datum.x0 + 5"}, "y": {"signal": "datum.y0 + 5"}, "baseline": {"value": "top"},
+            "fontSize": {"value": 11},
+            "limit": {"signal": "datum.x1 - datum.x0 - 8"}, "ellipsis": {"value": "…"},
+            "fill": {"signal": "datum.colour === 'Red' ? 'white' : '#2b2226'"},
+            "text": {"signal": "(datum.x1 - datum.x0 > 60 && datum.y1 - datum.y0 > 22) ? datum.name : ''"}
+        }}
+        },
+        {
+        "type": "text", "from": {"data": "states"}, "interactive": false,
+        "encode": {"update": {
+            "x": {"signal": "datum.x0 + 4"}, "y": {"signal": "datum.y0 + 4"}, "baseline": {"value": "top"},
+            "fontSize": {"value": 12}, "fontWeight": {"value": "bold"}, "fill": {"value": "#2b2226"},
+            "limit": {"signal": "datum.x1 - datum.x0 - 6"}, "ellipsis": {"value": "…"},
+            "text": {"signal": "datum.x1 - datum.x0 <= 50 ? '' : (datum.name === 'Western Australia' && datum.x1 - datum.x0 < 120 ? 'WA' : datum.name)"}
+        }}
+        }
+    ]
+}

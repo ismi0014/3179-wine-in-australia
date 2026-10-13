@@ -1,0 +1,2330 @@
+variety,points,price,province,region
+Chardonnay,86,18.0,South Australia,
+Rosé,86,20.0,South Australia,McLaren Vale
+Shiraz-Cabernet Sauvignon,92,40.0,South Australia,Padthaway
+Cabernet Sauvignon,87,30.0,South Australia,Padthaway
+Shiraz,85,12.0,South Australia,
+Grenache,85,29.0,South Australia,McLaren Vale
+Sauvignon Blanc,85,15.0,South Australia,Adelaide Hills
+Shiraz,92,70.0,South Australia,Barossa Valley
+Muscat,100,350.0,Victoria,Rutherglen
+Muscadelle,98,350.0,Victoria,Rutherglen
+Muscat,97,100.0,Victoria,Rutherglen
+Shiraz-Viognier,97,225.0,South Australia,Barossa Valley
+Shiraz,95,85.0,Victoria,Heathcote
+Shiraz-Viognier,95,125.0,South Australia,Barossa Valley
+Shiraz,95,60.0,South Australia,Clare Valley
+Shiraz,92,35.0,South Australia,McLaren Vale
+Viognier,92,60.0,Victoria,Yarra Valley
+Shiraz,92,125.0,South Australia,Barossa Valley
+Riesling,92,21.0,Western Australia,Great Southern
+Pinot Grigio,85,9.0,Unspecified,
+Pinot Noir,87,18.0,Tasmania,
+Cabernet Sauvignon,87,11.0,Unspecified,
+Chardonnay,90,66.0,Victoria,Mornington Peninsula
+Red Blend,90,22.0,South Australia,Barossa Valley
+Rosé,90,25.0,South Australia,McLaren Vale
+Shiraz,90,15.0,Unspecified,
+Sauvignon Blanc,87,,Unspecified,
+Sauvignon Blanc,87,18.0,South Australia,Adelaide Hills
+Viognier,88,25.0,South Australia,Barossa Valley
+Shiraz,88,18.0,South Australia,Barossa Valley
+Shiraz,88,14.0,South Australia,Coonawarra
+Shiraz,94,100.0,South Australia,Barossa Valley
+Shiraz,87,19.0,South Australia,Clare Valley
+Sauvignon Blanc,88,13.0,South Australia,
+Marsanne-Roussanne,87,25.0,Victoria,Goulburn Valley
+Pinot Grigio,87,13.0,South Australia,
+Shiraz-Cabernet Sauvignon,85,12.0,South Australia,
+Chardonnay,85,8.0,Unspecified,
+Sauvignon Blanc-Semillon,85,16.0,Western Australia,Margaret River
+Semillon-Sauvignon Blanc,85,9.0,Unspecified,
+Chardonnay,86,14.0,Unspecified,
+Chardonnay,86,23.0,Western Australia,Margaret River
+Shiraz-Viognier,85,20.0,South Australia,McLaren Vale
+Shiraz,85,30.0,South Australia,McLaren Vale
+Shiraz,93,50.0,South Australia,Padthaway
+Cabernet Sauvignon,89,20.0,South Australia,Langhorne Creek
+Cabernet Sauvignon,89,25.0,South Australia,Adelaide Hills
+Cabernet Sauvignon,89,18.0,South Australia,Barossa Valley
+Cabernet Sauvignon,89,12.0,South Australia,McLaren Vale
+Cabernet Sauvignon,89,30.0,Victoria,Yarra Valley
+Cabernet Sauvignon,88,14.0,Unspecified,
+Cabernet Sauvignon,88,22.0,South Australia,McLaren Vale
+Chardonnay,87,30.0,Western Australia,Margaret River
+Shiraz,87,53.0,South Australia,Barossa Valley
+Chardonnay,84,21.0,South Australia,McLaren Vale
+Shiraz,87,16.0,South Australia,McLaren Vale
+Chardonnay,90,33.0,Western Australia,Pemberton
+Shiraz-Viognier,94,225.0,South Australia,Barossa Valley
+Riesling,90,35.0,Western Australia,Great Southern
+Shiraz,90,20.0,Western Australia,Geographe
+Shiraz,90,20.0,Western Australia,
+Cabernet Sauvignon,90,30.0,Western Australia,Margaret River
+Cabernet Sauvignon,90,21.0,Western Australia,
+Cabernet Sauvignon,83,8.0,Unspecified,
+Shiraz,90,20.0,South Australia,McLaren Vale
+Sparkling Blend,90,22.0,Tasmania,
+Chardonnay,89,13.0,South Australia,Adelaide Hills
+Cabernet Sauvignon,86,14.0,South Australia,
+Cabernet Sauvignon,86,19.0,South Australia,Adelaide Plains
+Cabernet Merlot,86,29.0,Western Australia,Margaret River
+Cabernet Sauvignon,86,37.0,South Australia,Clare Valley
+Cabernet Sauvignon,85,16.0,South Australia,
+Cabernet Sauvignon-Merlot,85,24.0,Western Australia,Margaret River
+Shiraz,91,50.0,South Australia,Coonawarra
+Shiraz,91,20.0,South Australia,Coonawarra
+Shiraz,91,22.0,South Australia,Padthaway
+Shiraz-Viognier,94,105.0,South Australia,Barossa Valley
+Chardonnay,88,15.0,Victoria,Yarra Valley
+Shiraz,88,26.0,South Australia,Coonawarra
+Shiraz,89,17.0,Western Australia,Margaret River
+Red Blend,87,18.0,South Australia,Barossa Valley
+Shiraz,87,24.0,South Australia,McLaren Vale
+Riesling,92,18.0,South Australia,Eden Valley
+White Blend,88,15.0,South Australia,
+Chardonnay,88,21.0,South Australia,Adelaide Hills
+Pinot Noir,88,21.0,South Australia,Adelaide Hills
+Cabernet Sauvignon,92,38.0,Western Australia,Margaret River
+Cabernet Sauvignon,92,65.0,South Australia,McLaren Vale
+Riesling,92,40.0,Western Australia,Great Southern
+Shiraz,92,50.0,South Australia,Barossa Valley
+Sparkling Blend,86,13.0,Unspecified,
+Sparkling Blend,86,13.0,Unspecified,
+Shiraz,86,20.0,South Australia,Padthaway
+Pinot Grigio,84,9.0,Unspecified,
+Shiraz-Cabernet Sauvignon,86,12.0,South Australia,
+Chardonnay,86,12.0,Victoria,
+Pinot Noir,83,15.0,Unspecified,
+Sparkling Blend,83,10.0,Unspecified,
+Shiraz,83,9.0,Unspecified,
+Riesling,86,12.0,South Australia,Barossa Valley
+Grenache,90,29.0,South Australia,McLaren Vale
+Cabernet Sauvignon,89,25.0,Western Australia,Margaret River
+Viognier,88,24.0,South Australia,McLaren Vale
+Pinot Noir,88,60.0,Victoria,Yarra Valley
+Champagne Blend,89,20.0,Tasmania,
+Pinot Noir,87,14.0,Victoria,
+Pinot Noir,86,28.0,Tasmania,
+Shiraz,86,10.0,Unspecified,
+Sauvignon Blanc,88,25.0,South Australia,Adelaide Hills
+Sauvignon Blanc-Semillon,86,13.0,Western Australia,
+Chardonnay,89,33.0,South Australia,Padthaway
+Grenache,87,45.0,South Australia,
+Grenache,87,19.0,South Australia,McLaren Vale
+Shiraz,88,13.0,New South Wales,Hunter Valley
+Moscato,88,14.0,Victoria,
+Cabernet Sauvignon,88,43.0,South Australia,Coonawarra
+Sauvignon Blanc,88,22.0,South Australia,Coonawarra
+Shiraz,88,10.0,Unspecified,
+Sauvignon Blanc,88,20.0,Unspecified,
+Sauvignon Blanc,88,,Unspecified,
+Shiraz-Grenache,90,18.0,South Australia,McLaren Vale
+Sémillon,90,27.0,South Australia,Eden Valley
+Shiraz,88,16.0,South Australia,
+Cabernet Sauvignon,88,17.0,South Australia,Clare Valley
+Chardonnay,87,12.0,Unspecified,
+Cabernet Sauvignon,89,16.0,South Australia,
+Shiraz,88,10.0,South Australia,
+Cabernet Sauvignon,89,32.0,Victoria,Pyrenees
+Shiraz,93,30.0,South Australia,
+Shiraz,93,40.0,South Australia,Barossa Valley
+Chardonnay,90,19.0,Victoria,
+Chardonnay,90,21.0,Victoria,Yarra Valley
+Riesling,89,30.0,South Australia,Eden Valley
+Shiraz,89,35.0,Victoria,
+Sauvignon Blanc-Semillon,86,20.0,Western Australia,Margaret River
+Shiraz,86,8.0,Unspecified,
+Pinot Noir,84,17.0,Victoria,
+Pinot Noir,82,41.0,Victoria,Yarra Valley
+Pinot Noir,82,30.0,Victoria,Yarra Valley
+Rhône-style Red Blend,90,21.0,South Australia,McLaren Vale
+Syrah,92,75.0,South Australia,
+Chardonnay,86,15.0,South Australia,Adelaide Hills
+Chardonnay,85,20.0,Victoria,Yarra Valley
+Cabernet Sauvignon,83,7.0,Unspecified,
+Pinot Noir,92,42.0,Victoria,Yarra Valley
+Riesling,85,16.0,South Australia,Barossa Valley
+Chardonnay,86,13.0,Unspecified,
+Chardonnay,88,56.0,Victoria,Mornington Peninsula
+Shiraz,92,85.0,South Australia,McLaren Vale
+Chardonnay,92,70.0,Western Australia,Margaret River
+Shiraz-Cabernet Sauvignon,87,19.0,South Australia,
+Verdelho,87,14.0,South Australia,Langhorne Creek
+Shiraz,87,15.0,South Australia,Barossa Valley
+Pinot Noir,87,39.0,Tasmania,
+Shiraz,87,21.0,South Australia,McLaren Vale
+Shiraz,87,34.0,South Australia,Coonawarra
+Shiraz-Cabernet Sauvignon,87,17.0,South Australia,
+Red Blend,87,24.0,South Australia,Barossa Valley
+Grenache,87,20.0,South Australia,McLaren Vale
+Shiraz,90,20.0,South Australia,McLaren Vale
+G-S-M,90,21.0,South Australia,McLaren Vale
+G-S-M,90,19.0,South Australia,Barossa Valley
+Shiraz-Cabernet Sauvignon,88,13.0,South Australia,
+Shiraz,88,30.0,South Australia,McLaren Vale
+Chardonnay,87,18.0,South Australia,Barossa Valley
+Chardonnay,87,16.0,Unspecified,
+Viognier,89,30.0,South Australia,Adelaide Hills
+Riesling,89,15.0,South Australia,Clare Valley
+Riesling,89,17.0,South Australia,Clare Valley
+Riesling,89,25.0,South Australia,Clare Valley
+Shiraz,91,50.0,South Australia,McLaren Vale
+Riesling,91,21.0,Victoria,
+Shiraz,91,75.0,South Australia,McLaren Vale
+Grenache,88,25.0,South Australia,McLaren Vale
+Cabernet Merlot,88,29.0,Western Australia,Margaret River
+Merlot,88,11.0,Unspecified,
+Shiraz-Viognier,88,23.0,South Australia,Barossa Valley
+Pinot Gris,88,22.0,Tasmania,
+Chardonnay,87,16.0,South Australia,Adelaide Hills
+Grenache,91,29.0,South Australia,McLaren Vale
+Shiraz,91,120.0,South Australia,McLaren Vale
+Chardonnay,84,17.0,South Australia,Barossa Valley
+Chardonnay,83,15.0,Victoria,Yarra Valley
+Sauvignon Blanc-Semillon,87,20.0,Western Australia,
+Marsanne,92,23.0,Victoria,Goulburn Valley
+Chardonnay,87,9.0,South Australia,Padthaway
+Cabernet Sauvignon,86,12.0,New South Wales,Riverina
+Shiraz,93,100.0,South Australia,Wrattonbully
+Cabernet Sauvignon,89,24.0,South Australia,McLaren Vale
+Shiraz,90,50.0,South Australia,
+Chardonnay,89,26.0,South Australia,Adelaide Hills
+Cabernet Sauvignon-Shiraz,89,37.0,South Australia,Barossa Valley
+Cabernet Sauvignon,88,25.0,South Australia,Coonawarra
+Pinot Noir,87,40.0,Western Australia,Pemberton
+Riesling,89,,South Australia,Eden Valley
+Riesling,89,35.0,South Australia,Clare Valley
+Cabernet Sauvignon,91,17.0,South Australia,Clare Valley
+Shiraz,90,50.0,South Australia,McLaren Vale
+Shiraz,90,38.0,South Australia,Barossa Valley
+Shiraz,90,85.0,South Australia,McLaren Vale
+Shiraz-Cabernet Sauvignon,92,50.0,South Australia,
+Shiraz,91,18.0,South Australia,Barossa Valley
+Chardonnay,92,75.0,Western Australia,Margaret River
+Chardonnay,92,75.0,Western Australia,Margaret River
+Bordeaux-style Red Blend,86,29.0,South Australia,
+Red Blend,92,75.0,South Australia,Barossa Valley
+Rosé,85,23.0,South Australia,Barossa Valley
+Shiraz-Grenache,89,20.0,Unspecified,
+Rhône-style Red Blend,89,35.0,South Australia,Barossa Valley
+Sangiovese,88,12.0,South Australia,
+Shiraz,88,85.0,South Australia,McLaren Vale
+Cabernet Sauvignon,84,16.0,South Australia,Langhorne Creek
+Cabernet Sauvignon,84,13.0,South Australia,
+Cabernet Sauvignon-Merlot,90,70.0,Western Australia,Margaret River
+Shiraz,90,18.0,South Australia,
+Riesling,90,22.0,Western Australia,Margaret River
+G-S-M,90,40.0,South Australia,Barossa Valley
+White Blend,90,45.0,Victoria,
+Cabernet Sauvignon,93,90.0,South Australia,
+Chardonnay,92,65.0,Unspecified,
+Cabernet Sauvignon,90,19.0,South Australia,
+Shiraz,88,46.0,South Australia,Padthaway
+Cabernet Sauvignon,88,18.0,South Australia,
+Riesling,88,16.0,South Australia,McLaren Vale
+Cabernet Sauvignon,88,13.0,Western Australia,Margaret River
+Chardonnay,85,13.0,Unspecified,
+Chardonnay,85,10.0,Unspecified,
+Chardonnay,90,28.0,South Australia,
+Cabernet Sauvignon,91,20.0,South Australia,Coonawarra
+Chardonnay-Semillon,91,19.0,South Australia,
+Cabernet Sauvignon,91,30.0,South Australia,Coonawarra
+Bordeaux-style Red Blend,91,75.0,South Australia,Adelaide Hills
+Pinot Noir,84,14.0,Victoria,Yarra Valley
+Cabernet Sauvignon,89,21.0,South Australia,Padthaway
+Chardonnay,86,13.0,New South Wales,Riverina
+Chardonnay,86,11.0,Unspecified,
+Shiraz,90,15.0,South Australia,McLaren Vale
+Riesling,85,,South Australia,Clare Valley
+Shiraz,92,30.0,Victoria,Pyrenees
+Chardonnay,85,14.0,Western Australia,
+Chardonnay,85,17.0,New South Wales,Mudgee
+Chardonnay,85,16.0,South Australia,Barossa Valley
+Chardonnay,84,9.0,Unspecified,
+Chardonnay,84,17.0,New South Wales,Orange
+Chardonnay,84,12.0,Unspecified,
+Chardonnay,84,15.0,Unspecified,
+Chardonnay,84,8.0,New South Wales,
+Chardonnay,84,28.0,Western Australia,Margaret River
+Tokay,86,15.0,Victoria,Rutherglen
+Sparkling Blend,83,12.0,Unspecified,
+Champagne Blend,82,15.0,Unspecified,
+Chardonnay,85,18.0,Western Australia,
+Moscato,85,12.0,Victoria,
+Moscato,85,13.0,Unspecified,
+Chardonnay,85,12.0,Unspecified,
+Chardonnay,85,10.0,Unspecified,
+Tempranillo,89,20.0,South Australia,McLaren Vale
+Viognier,89,40.0,South Australia,Eden Valley
+Pinot Gris,88,18.0,South Australia,Adelaide Hills
+Shiraz,83,9.0,Unspecified,
+Shiraz,92,32.0,Victoria,Heathcote
+Chardonnay,86,14.0,Unspecified,
+Riesling,92,30.0,South Australia,Clare Valley
+Shiraz,92,40.0,South Australia,Padthaway
+Shiraz,95,60.0,South Australia,Barossa Valley
+Riesling,86,20.0,South Australia,Clare Valley
+Rhône-style Red Blend,92,65.0,South Australia,McLaren Vale
+Riesling,89,13.0,South Australia,Barossa Valley
+Red Blend,87,21.0,Unspecified,
+Red Blend,86,13.0,South Australia,Barossa Valley
+Grenache,94,53.0,South Australia,Barossa Valley
+Chardonnay,94,109.0,Western Australia,Margaret River
+Shiraz,92,40.0,South Australia,Padthaway
+Shiraz,84,11.0,South Australia,
+Muscadelle,94,140.0,Victoria,Rutherglen
+Shiraz,94,70.0,South Australia,McLaren Vale
+Shiraz,91,17.0,South Australia,Clare Valley
+Shiraz,88,20.0,South Australia,McLaren Vale
+Riesling,88,19.0,South Australia,Clare Valley
+Sauvignon Blanc,88,18.0,South Australia,Adelaide Hills
+Semillon-Sauvignon Blanc,88,14.0,Western Australia,
+Sparkling Blend,85,10.0,Unspecified,
+Shiraz,88,13.0,South Australia,
+Shiraz,86,8.0,Unspecified,
+Shiraz,94,100.0,South Australia,Barossa Valley
+Shiraz,94,80.0,South Australia,Padthaway
+Shiraz,95,65.0,South Australia,Barossa Valley
+Pinot Noir,93,55.0,Victoria,Mornington Peninsula
+Sauvignon Blanc,82,15.0,South Australia,Adelaide Hills
+Shiraz,85,13.0,Unspecified,
+Pinot Noir,85,15.0,Unspecified,
+Red Blend,90,20.0,South Australia,Barossa Valley
+Cabernet Sauvignon,85,11.0,South Australia,
+Shiraz-Viognier,85,125.0,South Australia,Barossa Valley
+Pinot Noir,92,42.0,Victoria,Yarra Valley
+Shiraz,84,11.0,South Australia,
+Pinot Noir,84,22.0,Victoria,Yarra Valley
+Cabernet Sauvignon,84,43.0,Western Australia,Margaret River
+Pinot Noir,86,17.0,Victoria,Yarra Valley
+Chardonnay,92,42.0,Victoria,Yarra Valley
+Riesling,92,17.0,South Australia,
+Viognier,92,45.0,South Australia,Eden Valley
+Cabernet Sauvignon,92,28.0,South Australia,McLaren Vale
+Shiraz-Grenache,92,27.0,South Australia,Barossa Valley
+Shiraz-Cabernet Sauvignon,85,20.0,South Australia,
+Red Blend,84,14.0,Unspecified,
+Merlot,87,20.0,South Australia,McLaren Vale
+Riesling,87,20.0,South Australia,Clare Valley
+Cabernet Sauvignon,88,16.0,South Australia,Barossa Valley
+Cabernet Sauvignon-Sangiovese,88,30.0,Victoria,Yarra Valley
+Cabernet Sauvignon,91,30.0,South Australia,Barossa Valley
+Tempranillo,92,28.0,South Australia,
+Chardonnay,86,8.0,Unspecified,
+Shiraz,90,70.0,South Australia,Barossa Valley
+Shiraz,92,29.0,South Australia,McLaren Vale
+Shiraz-Viognier,92,48.0,South Australia,McLaren Vale
+Cabernet Sauvignon,91,22.0,South Australia,Barossa Valley
+Shiraz,91,16.0,South Australia,
+Bordeaux-style Red Blend,89,125.0,Victoria,Yarra Valley
+Chardonnay,89,22.0,Western Australia,Great Southern
+Tokay,89,19.0,Victoria,Rutherglen
+Muscat,89,15.0,Victoria,Rutherglen
+Tokay,89,35.0,Victoria,Rutherglen
+Red Blend,84,20.0,South Australia,Barossa Valley
+Cabernet Blend,84,10.0,Western Australia,
+Chardonnay,91,49.0,Western Australia,Margaret River
+Chardonnay,91,40.0,Western Australia,Great Southern
+Cabernet Sauvignon,91,22.0,South Australia,Barossa Valley
+Bordeaux-style Red Blend,91,55.0,Western Australia,Margaret River
+Shiraz,91,20.0,South Australia,
+Shiraz,91,65.0,South Australia,McLaren Vale
+Sauvignon Blanc,86,12.0,South Australia,
+Cabernet Sauvignon,86,13.0,New South Wales,Riverina
+Petite Sirah,87,9.0,Unspecified,
+Rosé,87,16.0,New South Wales,Mudgee
+Chardonnay,89,22.0,Western Australia,Great Southern
+Bordeaux-style Red Blend,89,125.0,Victoria,Yarra Valley
+Shiraz,89,85.0,South Australia,McLaren Vale
+Cabernet Sauvignon,90,20.0,South Australia,Clare Valley
+Pinot Grigio,90,15.0,Victoria,
+Sémillon,90,25.0,New South Wales,Hunter Valley
+Rosé,85,20.0,South Australia,McLaren Vale
+Port,88,13.0,Unspecified,
+Shiraz,92,32.0,South Australia,McLaren Vale
+Shiraz,93,50.0,South Australia,Barossa Valley
+Chardonnay,87,10.0,South Australia,
+Cabernet Sauvignon,87,12.0,South Australia,
+Sauvignon Blanc-Semillon,87,25.0,Western Australia,Margaret River
+Sauvignon Blanc,85,19.0,Victoria,Yarra Valley
+Riesling,85,20.0,Western Australia,
+Shiraz,87,25.0,South Australia,McLaren Vale
+Shiraz-Cabernet,86,19.0,South Australia,Padthaway
+Shiraz,91,18.0,South Australia,Barossa Valley
+Chardonnay,87,12.0,Unspecified,
+Shiraz,87,18.0,Western Australia,
+Red Blend,87,14.0,Victoria,Bendigo
+G-S-M,85,,South Australia,McLaren Vale
+Sauvignon Blanc-Semillon,85,28.0,Western Australia,Margaret River
+Sauvignon Blanc-Semillon,89,23.0,Western Australia,Margaret River
+Chardonnay-Semillon,89,18.0,South Australia,Barossa Valley
+Shiraz-Cabernet Sauvignon,89,14.0,Unspecified,
+Shiraz-Cabernet Sauvignon,87,17.0,Unspecified,
+Chardonnay,87,13.0,South Australia,
+Shiraz,93,119.0,South Australia,Barossa Valley
+Chardonnay,92,200.0,Western Australia,Margaret River
+Pinot Noir,87,18.0,Tasmania,
+Cabernet Sauvignon,87,11.0,Unspecified,
+Riesling,87,35.0,South Australia,Clare Valley
+Shiraz,85,10.0,South Australia,
+Shiraz,92,85.0,Victoria,Heathcote
+Chardonnay,92,130.0,Tasmania,
+Shiraz,81,10.0,Unspecified,
+Shiraz,81,12.0,Unspecified,
+Shiraz,89,17.0,Victoria,Heathcote
+Riesling,90,15.0,Western Australia,Great Southern
+Shiraz,90,66.0,South Australia,McLaren Vale
+Shiraz,90,66.0,South Australia,Barossa Valley
+Riesling,90,16.0,South Australia,Clare Valley
+Pinot Noir,90,38.0,Tasmania,
+Pinot Grigio,85,17.0,South Australia,Adelaide Hills
+Pinot Grigio,85,,Unspecified,
+Shiraz,90,65.0,South Australia,McLaren Vale
+Shiraz,90,36.0,New South Wales,Hunter Valley
+Shiraz,88,55.0,South Australia,Barossa Valley
+Shiraz,88,26.0,South Australia,Barossa Valley
+Verdelho,89,20.0,South Australia,McLaren Vale
+Shiraz-Viognier,89,20.0,South Australia,
+Petite Sirah,87,9.0,Unspecified,
+Chardonnay,93,40.0,Western Australia,Margaret River
+Grenache,93,33.0,South Australia,McLaren Vale
+Shiraz,93,69.0,South Australia,Barossa Valley
+Cabernet Sauvignon,91,59.0,South Australia,McLaren Vale
+Cabernet Sauvignon,90,57.0,South Australia,Barossa Valley
+Sparkling Blend,89,25.0,Tasmania,
+G-S-M,90,40.0,South Australia,Barossa Valley
+Grenache-Shiraz,90,35.0,South Australia,McLaren Vale
+Shiraz,90,14.0,South Australia,McLaren Vale
+Grenache,90,50.0,South Australia,McLaren Vale
+Chardonnay,85,18.0,Western Australia,
+Sauvignon Blanc,90,22.0,South Australia,Adelaide Hills
+Shiraz,90,20.0,South Australia,Langhorne Creek
+Pinot Noir,90,,Victoria,
+Pinot Gris,90,15.0,Victoria,
+Malbec,91,250.0,Western Australia,Margaret River
+Shiraz,89,19.0,South Australia,Barossa Valley
+White Blend,90,38.0,Unspecified,
+Cabernet Sauvignon-Shiraz,94,54.0,South Australia,Barossa Valley
+Shiraz,93,37.0,South Australia,McLaren Vale
+Chardonnay,87,21.0,South Australia,McLaren Vale
+Cabernet Sauvignon-Merlot,88,19.0,Western Australia,Margaret River
+Cabernet Sauvignon,87,15.0,South Australia,Coonawarra
+Cabernet Sauvignon,87,17.0,Victoria,Yarra Valley
+Cabernet Sauvignon,87,35.0,Western Australia,Margaret River
+Sauvignon Blanc,86,15.0,South Australia,
+Shiraz,92,25.0,South Australia,Barossa Valley
+Shiraz,90,69.0,South Australia,Barossa Valley
+Shiraz,90,36.0,Victoria,Pyrenees
+Chardonnay,90,20.0,Western Australia,Margaret River
+Pinot Noir,90,28.0,South Australia,Adelaide Hills
+Riesling,90,15.0,South Australia,Clare Valley
+Riesling,91,19.0,South Australia,Eden Valley
+Sparkling Blend,91,27.0,Tasmania,
+Riesling,91,19.0,South Australia,Clare Valley
+Pinot Noir,91,30.0,Tasmania,
+Riesling,91,40.0,South Australia,Clare Valley
+Cabernet Sauvignon,91,35.0,South Australia,Clare Valley
+Sémillon,91,19.0,New South Wales,Riverina
+Cabernet Sauvignon,91,20.0,South Australia,Clare Valley
+Shiraz,93,120.0,South Australia,Barossa Valley
+Shiraz-Viognier,86,19.0,South Australia,Eden Valley
+Cabernet Sauvignon-Shiraz,92,125.0,South Australia,Barossa Valley
+Riesling,88,12.0,South Australia,Clare Valley
+Sauvignon Blanc,87,21.0,South Australia,Adelaide Hills
+Viognier,87,15.0,Unspecified,
+Chardonnay,87,16.0,Victoria,Yarra Valley
+Shiraz,94,100.0,South Australia,Barossa Valley
+Shiraz,94,70.0,South Australia,Clare Valley
+Shiraz,94,85.0,South Australia,McLaren Vale
+Sauvignon Blanc-Semillon,89,35.0,Western Australia,Margaret River
+Pinot Noir,86,42.0,Victoria,Yarra Valley
+Shiraz,90,15.0,South Australia,Barossa Valley
+Riesling,90,19.0,South Australia,Clare Valley
+Cabernet Merlot,88,15.0,South Australia,
+Chardonnay,84,9.0,Unspecified,
+Sparkling Blend,84,13.0,Unspecified,
+Sparkling Blend,84,10.0,Unspecified,
+Shiraz,88,14.0,Victoria,
+Shiraz,88,14.0,South Australia,
+Cabernet Sauvignon,90,50.0,South Australia,McLaren Vale
+Merlot,90,70.0,South Australia,Wrattonbully
+G-S-M,89,15.0,South Australia,Barossa Valley
+Pinot Noir,89,25.0,Victoria,Mornington Peninsula
+Shiraz,89,18.0,Victoria,
+Shiraz,89,60.0,Victoria,Goulburn Valley
+Chardonnay,93,154.0,Victoria,
+Riesling,93,40.0,South Australia,Clare Valley
+Chardonnay,93,89.0,Western Australia,Margaret River
+Shiraz,91,25.0,Western Australia,Great Southern
+Shiraz,90,15.0,South Australia,McLaren Vale
+Riesling,87,20.0,South Australia,Clare Valley
+Shiraz,85,20.0,New South Wales,Hunter Valley
+Shiraz,84,40.0,Victoria,Rutherglen
+Pinot Noir,87,20.0,South Australia,Adelaide Hills
+Pinot Noir,87,65.0,Tasmania,
+Shiraz,90,12.0,South Australia,McLaren Vale
+Riesling,85,18.0,South Australia,Barossa Valley
+Cabernet Sauvignon,85,12.0,Unspecified,
+Shiraz,91,95.0,Victoria,Yarra Valley
+Shiraz,91,29.0,Western Australia,Great Southern
+Riesling,91,17.0,Western Australia,Great Southern
+White Blend,81,12.0,South Australia,Langhorne Creek
+Chardonnay,81,15.0,South Australia,
+Riesling,88,18.0,South Australia,Eden Valley
+Chardonnay,90,79.0,Western Australia,Margaret River
+Sauvignon Blanc,85,,Victoria,Yarra Valley
+Pinot Grigio,85,14.0,South Australia,Adelaide Hills
+Shiraz,85,10.0,South Australia,
+Cabernet Sauvignon,85,12.0,Unspecified,
+Riesling,90,37.0,South Australia,Eden Valley
+Pinot Gris,88,20.0,Victoria,
+Riesling,88,,Western Australia,
+Pinot Gris,88,25.0,Tasmania,
+Grenache,91,65.0,South Australia,
+Grenache,90,65.0,South Australia,
+Roussanne,90,100.0,Victoria,
+Shiraz-Grenache,90,17.0,South Australia,McLaren Vale
+Pinot Noir,90,40.0,Victoria,Mornington Peninsula
+G-S-M,90,65.0,South Australia,McLaren Vale
+Shiraz,92,70.0,Victoria,Yarra Valley
+Shiraz,87,15.0,South Australia,
+Shiraz,87,12.0,New South Wales,Hunter Valley
+Red Blend,87,9.0,Western Australia,
+Shiraz,89,25.0,Victoria,Bendigo
+Pinot Noir,89,14.0,Victoria,
+Roussanne,83,25.0,South Australia,McLaren Vale
+White Blend,81,14.0,South Australia,Barossa Valley
+Syrah,95,350.0,South Australia,
+Chardonnay,92,89.0,Western Australia,Margaret River
+Chardonnay,92,36.0,Western Australia,Margaret River
+Sauvignon Blanc-Semillon,90,35.0,Western Australia,Margaret River
+White Blend,87,,South Australia,
+Moscato,84,8.0,Unspecified,
+Chardonnay,82,10.0,South Australia,
+Chardonnay,82,18.0,South Australia,
+Cabernet Sauvignon,82,8.0,Unspecified,
+G-S-M,88,25.0,South Australia,McLaren Vale
+Shiraz,92,37.0,Unspecified,
+Cabernet Sauvignon-Shiraz,92,50.0,South Australia,
+Cabernet Sauvignon,92,60.0,South Australia,McLaren Vale
+Shiraz,89,13.0,Western Australia,
+Riesling,89,20.0,South Australia,Clare Valley
+Shiraz-Cabernet Sauvignon,89,16.0,Western Australia,Margaret River
+Shiraz,89,20.0,Western Australia,Margaret River
+Shiraz,92,73.0,South Australia,McLaren Vale
+Cabernet Sauvignon,86,17.0,South Australia,Barossa Valley
+Shiraz,87,85.0,South Australia,McLaren Vale
+Viognier,87,60.0,Victoria,Yarra Valley
+Rosé,88,12.0,South Australia,
+Sauvignon Blanc,87,22.0,Western Australia,Margaret River
+Sauvignon Blanc,87,17.0,Western Australia,Great Southern
+Shiraz,91,36.0,New South Wales,Hunter Valley
+Cabernet Sauvignon,91,50.0,South Australia,Clare Valley
+Cabernet Sauvignon,87,17.0,South Australia,Clare Valley
+Cabernet Sauvignon,87,20.0,South Australia,McLaren Vale
+Cabernet Sauvignon,87,25.0,South Australia,Barossa Valley
+Cabernet Sauvignon,87,24.0,South Australia,Barossa Valley
+Cabernet Sauvignon,87,30.0,South Australia,McLaren Vale
+Bordeaux-style Red Blend,87,25.0,Western Australia,Margaret River
+Cabernet Sauvignon,87,17.0,South Australia,Barossa Valley
+Cabernet Sauvignon-Merlot-Shiraz,91,20.0,South Australia,McLaren Vale
+Cabernet Sauvignon,90,30.0,South Australia,Barossa Valley
+Sauvignon Blanc,87,10.0,South Australia,
+Pinot Grigio,86,17.0,South Australia,Adelaide Hills
+Pinot Noir,86,32.0,South Australia,Adelaide Hills
+Petite Sirah,92,42.0,South Australia,Barossa Valley
+Red Blend,90,24.0,South Australia,McLaren Vale
+Shiraz-Cabernet Sauvignon,90,17.0,Unspecified,
+Shiraz,90,16.0,South Australia,Barossa Valley
+Rosé,89,22.0,Victoria,Bendigo
+Chardonnay,90,25.0,South Australia,Adelaide Hills
+Chardonnay,85,13.0,South Australia,
+Shiraz,94,105.0,South Australia,Barossa Valley
+Shiraz,94,190.0,South Australia,Barossa Valley
+Chardonnay,93,55.0,Victoria,Mornington Peninsula
+Cabernet Sauvignon,88,15.0,Western Australia,
+Cabernet Sauvignon,88,15.0,South Australia,Coonawarra
+Cabernet Sauvignon,88,19.0,South Australia,McLaren Vale
+Cabernet Sauvignon,88,21.0,Western Australia,
+Cabernet Sauvignon,88,15.0,South Australia,
+Cabernet Sauvignon,88,13.0,South Australia,
+Shiraz-Cabernet Sauvignon,89,,South Australia,Langhorne Creek
+Red Blend,89,15.0,South Australia,Langhorne Creek
+G-S-M,89,20.0,South Australia,Barossa Valley
+G-S-M,89,20.0,South Australia,Barossa Valley
+Shiraz,94,40.0,South Australia,Barossa Valley
+Roussanne,93,75.0,Victoria,
+Rhône-style White Blend,87,15.0,South Australia,McLaren Vale
+Shiraz,89,18.0,South Australia,McLaren Vale
+Shiraz,89,31.0,South Australia,Adelaide Hills
+Merlot,89,30.0,Victoria,Yarra Valley
+Grenache,88,21.0,South Australia,Clare Valley
+Chardonnay,87,16.0,South Australia,
+Chardonnay,87,14.0,South Australia,Adelaide Hills
+Marsanne,90,33.0,Victoria,Goulburn Valley
+Pinot Noir,84,13.0,South Australia,Adelaide Hills
+Chardonnay,85,10.0,Unspecified,
+Rosé,85,18.0,Western Australia,Margaret River
+Shiraz,91,20.0,South Australia,Langhorne Creek
+Shiraz,91,25.0,Victoria,Bendigo
+Bordeaux-style Red Blend,91,95.0,Western Australia,Margaret River
+Bordeaux-style Red Blend,91,29.0,South Australia,
+Shiraz,91,29.0,Western Australia,Great Southern
+Cabernet Sauvignon,90,13.0,South Australia,
+Cabernet Sauvignon,90,30.0,South Australia,McLaren Vale
+Shiraz,90,14.0,South Australia,Langhorne Creek
+Pinot Noir,90,,Victoria,
+Pinot Gris,90,15.0,Victoria,
+Cabernet Sauvignon-Shiraz,81,40.0,Victoria,Pyrenees
+Chardonnay,81,8.0,Unspecified,
+Shiraz,91,22.0,Victoria,Grampians
+Cabernet Sauvignon,93,69.0,Western Australia,Margaret River
+Shiraz,93,38.0,South Australia,McLaren Vale
+Shiraz,93,100.0,South Australia,Barossa Valley
+Shiraz,93,122.0,South Australia,Barossa Valley
+Shiraz,84,25.0,South Australia,McLaren Vale
+Chardonnay,84,11.0,Unspecified,
+Shiraz,84,12.0,South Australia,
+Riesling,84,16.0,Tasmania,
+Chardonnay,85,20.0,Victoria,
+Riesling,86,17.0,South Australia,Barossa Valley
+Red Blend,94,65.0,South Australia,Barossa Valley
+Cabernet Sauvignon-Shiraz,94,55.0,South Australia,Barossa Valley
+Viognier,91,20.0,South Australia,Eden Valley
+Rosé,89,22.0,Victoria,Bendigo
+Shiraz,98,135.0,South Australia,Barossa Valley
+Shiraz,96,135.0,South Australia,Barossa Valley
+Sparkling Blend,89,20.0,Tasmania,
+Riesling,91,22.0,Western Australia,Margaret River
+Chardonnay,94,109.0,Western Australia,Margaret River
+Riesling,87,15.0,South Australia,Eden Valley
+Viognier,92,19.0,South Australia,Wrattonbully
+Cabernet Sauvignon,90,60.0,Western Australia,Margaret River
+Riesling,90,40.0,South Australia,Clare Valley
+Chardonnay,90,22.0,South Australia,Adelaide Hills
+Cabernet Sauvignon,90,23.0,Victoria,Goulburn Valley
+Cabernet Sauvignon,93,140.0,South Australia,Clare Valley
+Cabernet Sauvignon,93,45.0,South Australia,Coonawarra
+Cabernet Sauvignon,93,50.0,South Australia,Clare Valley
+Cabernet Sauvignon,93,50.0,South Australia,Langhorne Creek
+Cabernet Sauvignon,93,75.0,Western Australia,Margaret River
+Shiraz,92,40.0,South Australia,McLaren Vale
+Shiraz-Viognier,92,31.0,South Australia,Barossa Valley
+Shiraz,92,75.0,South Australia,Barossa Valley
+Shiraz-Viognier,92,31.0,South Australia,Barossa Valley
+Shiraz,90,16.0,Victoria,
+Pinot Noir,90,17.0,South Australia,Adelaide Hills
+Sémillon,87,42.0,South Australia,Eden Valley
+Shiraz,91,20.0,South Australia,Barossa Valley
+Shiraz,91,21.0,Western Australia,Margaret River
+Shiraz,91,40.0,South Australia,McLaren Vale
+Shiraz-Viognier,91,25.0,Victoria,
+Cabernet Sauvignon,92,25.0,Victoria,Bendigo
+Cabernet Sauvignon,92,50.0,South Australia,Coonawarra
+Shiraz,91,61.0,Victoria,Heathcote
+Shiraz,91,25.0,Victoria,Heathcote
+Shiraz,91,125.0,New South Wales,Hunter Valley
+Riesling,86,22.0,Western Australia,Margaret River
+Shiraz,88,13.0,Western Australia,Margaret River
+Shiraz,88,40.0,Victoria,Heathcote
+Shiraz,86,11.0,Unspecified,
+Sauvignon Blanc,86,17.0,South Australia,Adelaide Hills
+Shiraz,87,19.0,South Australia,McLaren Vale
+Pinot Grigio,87,15.0,Unspecified,
+Shiraz,87,20.0,South Australia,
+Riesling,92,20.0,South Australia,Clare Valley
+Cabernet Sauvignon,92,60.0,Western Australia,Margaret River
+Cabernet Sauvignon,92,26.0,South Australia,Coonawarra
+Sémillon,92,25.0,South Australia,Barossa Valley
+Cabernet Sauvignon,92,22.0,South Australia,McLaren Vale
+Shiraz,91,85.0,Victoria,Heathcote
+Shiraz,84,13.0,Unspecified,
+Chardonnay,86,17.0,South Australia,McLaren Vale
+Shiraz-Viognier,86,25.0,South Australia,McLaren Vale
+Shiraz,92,40.0,South Australia,Clare Valley
+Shiraz,92,30.0,South Australia,Barossa Valley
+Cabernet Sauvignon,92,45.0,South Australia,
+Shiraz-Malbec,92,25.0,Victoria,Heathcote
+Sparkling Blend,88,25.0,Unspecified,
+Chardonnay,91,33.0,South Australia,Adelaide Hills
+Chardonnay,91,40.0,Tasmania,
+Shiraz-Cabernet Sauvignon,86,12.0,Unspecified,
+Merlot,85,12.0,Unspecified,
+Chardonnay,91,45.0,Victoria,Yarra Valley
+Shiraz-Viognier,90,20.0,Unspecified,
+Chardonnay,90,85.0,Victoria,Yarra Valley
+Shiraz,89,13.0,South Australia,Barossa Valley
+Chardonnay,89,35.0,South Australia,Adelaide Hills
+Chardonnay,89,25.0,South Australia,Barossa Valley
+Chardonnay,89,19.0,Western Australia,
+Cabernet Sauvignon,93,30.0,South Australia,Barossa Valley
+Red Blend,93,15.0,Unspecified,
+Riesling,90,15.0,South Australia,Clare Valley
+Riesling,90,16.0,South Australia,Clare Valley
+Chardonnay,89,50.0,New South Wales,Hunter Valley
+Riesling,89,25.0,South Australia,Eden Valley
+Riesling,89,25.0,South Australia,Eden Valley
+Sauvignon Blanc-Semillon,89,16.0,Western Australia,Margaret River
+Chardonnay,89,15.0,Western Australia,
+Riesling,89,25.0,Western Australia,Great Southern
+Shiraz-Viognier,89,29.0,South Australia,McLaren Vale
+Shiraz,90,15.0,South Australia,Barossa Valley
+Riesling,90,40.0,South Australia,Eden Valley
+Chardonnay,89,45.0,Victoria,Yarra Valley
+Riesling,90,37.0,South Australia,Eden Valley
+G-S-M,90,23.0,South Australia,Barossa Valley
+Sémillon,85,20.0,New South Wales,Hunter Valley
+Grenache,88,80.0,South Australia,McLaren Vale
+G-S-M,88,8.0,South Australia,
+G-S-M,88,15.0,South Australia,Barossa Valley
+Shiraz,92,40.0,Victoria,Heathcote
+Shiraz,94,235.0,South Australia,Clare Valley
+Shiraz,94,120.0,South Australia,McLaren Vale
+Cabernet Sauvignon,95,200.0,South Australia,
+Shiraz,95,60.0,South Australia,Clare Valley
+Muscadelle,94,140.0,Victoria,Rutherglen
+Chardonnay,91,40.0,Tasmania,
+Shiraz-Grenache,91,65.0,South Australia,McLaren Vale
+Pinot Noir,89,22.0,Victoria,Beechworth
+Shiraz,88,20.0,South Australia,McLaren Vale
+Shiraz-Cabernet,87,75.0,South Australia,McLaren Vale
+Chardonnay,91,30.0,Western Australia,Margaret River
+Montepulciano,91,25.0,South Australia,
+Shiraz,91,40.0,Victoria,Pyrenees
+Shiraz,92,40.0,South Australia,Barossa Valley
+Shiraz,87,19.0,South Australia,McLaren Vale
+Shiraz,91,780.0,South Australia,Eden Valley
+Pinot Noir,91,45.0,Victoria,Yarra Valley
+Shiraz,93,40.0,South Australia,McLaren Vale
+Cabernet Sauvignon,93,54.0,Western Australia,Margaret River
+Shiraz,96,185.0,South Australia,
+Shiraz,95,70.0,South Australia,Barossa Valley
+Rosé,84,10.0,Unspecified,
+Pinot Noir,84,60.0,Victoria,Yarra Valley
+Chardonnay,87,29.0,South Australia,Adelaide Hills
+Cabernet Sauvignon,91,35.0,Western Australia,Great Southern
+Shiraz-Grenache,91,20.0,South Australia,McLaren Vale
+Tokay,91,17.0,Victoria,Rutherglen
+Sauvignon Blanc-Semillon,91,20.0,Western Australia,Margaret River
+Chardonnay,85,10.0,South Australia,
+Pinot Grigio,84,8.0,Unspecified,
+Sparkling Blend,86,28.0,Victoria,
+Sparkling Blend,85,10.0,Unspecified,
+Pinot Noir,85,15.0,Victoria,
+Cabernet Sauvignon,91,30.0,South Australia,Clare Valley
+Shiraz,91,45.0,South Australia,Barossa Valley
+Cabernet Sauvignon,91,17.0,New South Wales,Riverina
+Cabernet Sauvignon,91,20.0,South Australia,Coonawarra
+Shiraz,91,40.0,South Australia,Clare Valley
+Chardonnay,85,8.0,Unspecified,
+Rhône-style Red Blend,85,10.0,South Australia,
+Shiraz,88,21.0,Victoria,Pyrenees
+Shiraz,88,35.0,Western Australia,Margaret River
+Cabernet Sauvignon,90,30.0,South Australia,McLaren Vale
+Cabernet Sauvignon,89,16.0,South Australia,McLaren Vale
+Cabernet Sauvignon,89,108.0,South Australia,Barossa Valley
+Chardonnay,85,9.0,Unspecified,
+Grenache,90,100.0,South Australia,McLaren Vale
+Shiraz,90,16.0,South Australia,Barossa Valley
+Champagne Blend,82,11.0,Unspecified,
+Shiraz,85,28.0,South Australia,Coonawarra
+Merlot,84,7.0,Unspecified,
+Shiraz,84,10.0,Unspecified,
+Petite Sirah,84,13.0,Unspecified,
+Sauvignon Blanc,86,17.0,Victoria,
+Shiraz,87,26.0,South Australia,Coonawarra
+Shiraz,87,15.0,South Australia,Coonawarra
+Cabernet Sauvignon-Shiraz,86,12.0,South Australia,Langhorne Creek
+Shiraz-Cabernet Sauvignon,86,25.0,Victoria,Bendigo
+Shiraz,86,28.0,South Australia,McLaren Vale
+Red Blend,86,30.0,Victoria,
+Grenache,86,18.0,South Australia,McLaren Vale
+Rhône-style Red Blend,86,9.0,South Australia,
+Marsanne,87,18.0,Victoria,Goulburn Valley
+Chardonnay,87,12.0,Unspecified,
+Shiraz,88,17.0,South Australia,Barossa Valley
+Chardonnay,86,12.0,Unspecified,
+Chardonnay,86,16.0,South Australia,
+Viognier,91,17.0,South Australia,
+Cabernet Sauvignon-Merlot-Shiraz,91,20.0,South Australia,McLaren Vale
+Shiraz,91,37.0,South Australia,McLaren Vale
+Riesling,91,16.0,South Australia,Eden Valley
+Shiraz,89,16.0,South Australia,Barossa Valley
+Shiraz,81,18.0,South Australia,McLaren Vale
+Pinot Noir,87,20.0,Western Australia,Great Southern
+Semillon-Sauvignon Blanc,87,18.0,Western Australia,Margaret River
+Grenache-Shiraz,87,20.0,South Australia,McLaren Vale
+Syrah,90,110.0,South Australia,
+Shiraz,89,70.0,South Australia,Clare Valley
+Chardonnay,90,200.0,Western Australia,Margaret River
+Chardonnay,93,70.0,South Australia,
+Malbec,87,25.0,South Australia,McLaren Vale
+Grenache,91,29.0,South Australia,McLaren Vale
+Viognier,84,10.0,South Australia,
+Red Blend,83,9.0,Unspecified,
+Shiraz,83,17.0,South Australia,
+Shiraz,83,20.0,Victoria,Rutherglen
+Shiraz-Cabernet Sauvignon,83,10.0,Unspecified,
+Shiraz,83,22.0,New South Wales,Hunter Valley
+Pinot Noir,83,12.0,Unspecified,
+Riesling,89,35.0,Victoria,
+Moscato,89,14.0,Victoria,
+Sauvignon Blanc,84,17.0,South Australia,Adelaide Hills
+Chardonnay,87,12.0,South Australia,
+Chardonnay,87,12.0,Unspecified,
+Grenache,88,18.0,South Australia,Barossa Valley
+Shiraz,88,9.0,South Australia,
+White Blend,88,25.0,South Australia,
+Shiraz,90,25.0,South Australia,McLaren Vale
+Shiraz,90,15.0,South Australia,McLaren Vale
+Chardonnay,89,25.0,Western Australia,Margaret River
+Shiraz,89,20.0,South Australia,Barossa Valley
+Chardonnay,89,27.0,Western Australia,Margaret River
+Shiraz,89,20.0,South Australia,Barossa Valley
+Viognier,91,19.0,South Australia,Eden Valley
+Shiraz,90,43.0,South Australia,McLaren Vale
+Shiraz,90,15.0,South Australia,Langhorne Creek
+Red Blend,86,12.0,South Australia,
+Shiraz,88,25.0,Western Australia,Margaret River
+Shiraz,94,95.0,South Australia,McLaren Vale
+Riesling,87,28.0,South Australia,Barossa Valley
+Pinot Grigio,87,16.0,South Australia,Adelaide Hills
+Shiraz,86,15.0,South Australia,
+Shiraz,85,13.0,Western Australia,Margaret River
+Cabernet Sauvignon,92,50.0,South Australia,Coonawarra
+Rosé,88,15.0,Victoria,
+Rosé,88,20.0,South Australia,Barossa Valley
+Syrah,91,60.0,South Australia,
+Shiraz,93,90.0,Victoria,Yarra Valley
+Riesling,93,37.0,Victoria,Heathcote
+Chardonnay,93,36.0,Western Australia,Margaret River
+Sauvignon Blanc,86,20.0,New South Wales,Orange
+Shiraz,90,17.0,South Australia,McLaren Vale
+Shiraz,90,35.0,Victoria,
+Chardonnay,84,20.0,South Australia,Eden Valley
+Chardonnay,84,7.0,Unspecified,
+Chardonnay,84,12.0,South Australia,
+Chardonnay,83,7.0,South Australia,
+Chardonnay,83,,South Australia,Eden Valley
+Chardonnay,83,16.0,South Australia,
+Syrah,95,225.0,South Australia,
+Shiraz,90,65.0,South Australia,McLaren Vale
+Rosé,88,19.0,South Australia,McLaren Vale
+Chardonnay,85,13.0,Unspecified,
+Shiraz,88,21.0,South Australia,McLaren Vale
+Semillon-Sauvignon Blanc,87,12.0,South Australia,Barossa Valley
+Shiraz-Viognier,87,13.0,Unspecified,
+Grenache,91,40.0,South Australia,McLaren Vale
+Chardonnay,85,9.0,Unspecified,
+Cabernet Sauvignon,89,20.0,South Australia,Coonawarra
+Shiraz-Viognier,89,19.0,South Australia,
+Shiraz,92,28.0,South Australia,Barossa Valley
+Red Blend,84,125.0,Victoria,Heathcote
+Red Blend,84,13.0,Victoria,
+Merlot,84,12.0,South Australia,Adelaide Plains
+Red Blend,87,10.0,South Australia,Langhorne Creek
+Shiraz,91,30.0,South Australia,Barossa Valley
+Syrah,91,75.0,South Australia,
+Shiraz,86,7.0,Unspecified,
+Shiraz,86,22.0,Victoria,Yarra Valley
+Shiraz,94,83.0,South Australia,McLaren Vale
+Chardonnay,94,69.0,Western Australia,Margaret River
+Sparkling Blend,93,44.0,Tasmania,
+Viognier,89,13.0,South Australia,
+Sparkling Blend,88,25.0,Western Australia,
+Sémillon,88,19.0,South Australia,Barossa Valley
+Vermentino,85,13.0,South Australia,
+Shiraz,91,80.0,Victoria,Yarra Valley
+Shiraz,91,70.0,South Australia,McLaren Vale
+Bordeaux-style Red Blend,82,20.0,Western Australia,Pemberton
+Cabernet Sauvignon,91,65.0,South Australia,McLaren Vale
+Sauvignon Blanc,90,13.0,Unspecified,
+Chardonnay,88,15.0,Unspecified,
+Shiraz-Cabernet Sauvignon,93,40.0,South Australia,Padthaway
+Shiraz,87,18.0,Victoria,
+Red Blend,87,10.0,South Australia,
+Rosé,91,21.0,South Australia,Barossa Valley
+Cabernet Sauvignon,92,60.0,South Australia,Coonawarra
+Cabernet Sauvignon,92,45.0,Western Australia,Margaret River
+Rosé,88,19.0,South Australia,McLaren Vale
+Chardonnay,86,13.0,Unspecified,
+Chardonnay,86,12.0,South Australia,
+Sémillon,85,32.0,New South Wales,Hunter Valley
+Shiraz,90,35.0,Victoria,Heathcote
+Shiraz,90,17.0,South Australia,Barossa Valley
+Shiraz,84,8.0,Unspecified,
+Shiraz,86,19.0,South Australia,Padthaway
+Riesling,91,65.0,Western Australia,Great Southern
+Shiraz,91,17.0,Western Australia,
+Shiraz,90,46.0,South Australia,Barossa Valley
+Cabernet Sauvignon,89,14.0,New South Wales,
+Chardonnay,86,8.0,Unspecified,
+Chardonnay,86,14.0,South Australia,McLaren Vale
+Chardonnay,86,10.0,New South Wales,
+Riesling,86,14.0,South Australia,Clare Valley
+Chardonnay,86,10.0,South Australia,Barossa Valley
+Riesling,86,20.0,South Australia,Clare Valley
+Chardonnay,86,20.0,New South Wales,Hunter Valley
+Grenache,93,75.0,South Australia,
+Riesling,91,20.0,South Australia,Eden Valley
+Chardonnay,91,35.0,South Australia,Adelaide Hills
+Chardonnay,91,41.0,South Australia,Adelaide Hills
+Chardonnay,89,23.0,New South Wales,Mudgee
+Chardonnay,89,120.0,South Australia,Adelaide Hills
+Chardonnay,88,10.0,New South Wales,Hunter Valley
+Chardonnay,88,13.0,New South Wales,
+Chardonnay,88,21.0,New South Wales,Hunter Valley
+Shiraz,91,110.0,South Australia,Eden Valley
+Shiraz,91,29.0,Western Australia,Great Southern
+Shiraz,82,14.0,Unspecified,
+Merlot,81,10.0,Unspecified,
+Shiraz,81,15.0,South Australia,
+Shiraz,80,12.0,South Australia,
+Chardonnay,91,36.0,Western Australia,Margaret River
+Grenache,91,20.0,South Australia,McLaren Vale
+Grenache,91,32.0,South Australia,McLaren Vale
+Shiraz,91,85.0,South Australia,McLaren Vale
+Shiraz,91,85.0,South Australia,McLaren Vale
+Cabernet Sauvignon,91,,South Australia,Coonawarra
+Marsanne,91,28.0,Victoria,Yarra Valley
+Cabernet Sauvignon,91,72.0,Western Australia,Margaret River
+Cabernet Sauvignon,91,37.0,Western Australia,Great Southern
+Riesling,86,18.0,South Australia,Clare Valley
+Riesling,86,14.0,South Australia,
+Pinot Grigio,86,16.0,South Australia,
+Pinot Noir,86,20.0,Western Australia,
+Cabernet Sauvignon,88,40.0,South Australia,Clare Valley
+Shiraz-Viognier,88,21.0,Western Australia,
+Shiraz,88,28.0,South Australia,Barossa Valley
+Red Blend,88,25.0,Victoria,Pyrenees
+Shiraz,84,35.0,South Australia,Clare Valley
+Grenache,93,35.0,South Australia,McLaren Vale
+Grenache,93,75.0,South Australia,McLaren Vale
+Shiraz,91,20.0,South Australia,McLaren Vale
+Shiraz,91,27.0,Unspecified,
+Shiraz,91,20.0,South Australia,McLaren Vale
+Cabernet Sauvignon,87,30.0,South Australia,McLaren Vale
+Cabernet Sauvignon,87,28.0,South Australia,Barossa Valley
+Shiraz,89,25.0,South Australia,Barossa Valley
+Cabernet Merlot,88,32.0,Victoria,Heathcote
+Sauvignon Blanc,88,22.0,South Australia,Adelaide Hills
+Shiraz,88,70.0,South Australia,Barossa Valley
+Bordeaux-style Red Blend,91,29.0,South Australia,McLaren Vale
+Rhône-style Red Blend,91,40.0,South Australia,Barossa Valley
+Shiraz,91,60.0,South Australia,Clare Valley
+Pinot Noir,90,20.0,Victoria,Yarra Valley
+Chardonnay,85,6.0,Unspecified,
+Riesling,85,18.0,Western Australia,
+Chardonnay,85,18.0,South Australia,Barossa Valley
+Chardonnay,85,8.0,Unspecified,
+Chardonnay,85,14.0,South Australia,Adelaide Hills
+Cabernet Sauvignon,92,,South Australia,
+Cabernet Sauvignon,92,29.0,Western Australia,Great Southern
+Chardonnay,83,20.0,South Australia,Padthaway
+Chardonnay,83,15.0,South Australia,
+Shiraz-Cabernet Sauvignon,90,42.0,South Australia,Padthaway
+Cabernet Sauvignon,90,20.0,Western Australia,Margaret River
+Cabernet Sauvignon-Merlot,90,27.0,Western Australia,Margaret River
+Cabernet Sauvignon,90,50.0,South Australia,Barossa Valley
+Cabernet Sauvignon,89,35.0,South Australia,McLaren Vale
+Riesling,94,19.0,South Australia,McLaren Vale
+Shiraz,84,14.0,South Australia,
+Grenache,91,49.0,South Australia,Clare Valley
+Cabernet Sauvignon,91,50.0,South Australia,Coonawarra
+Pinot Grigio,86,10.0,Victoria,
+Riesling,86,20.0,South Australia,Eden Valley
+Shiraz,86,9.0,Unspecified,
+Shiraz,89,,Victoria,Yarra Valley
+Cabernet Sauvignon,88,14.0,South Australia,
+Chardonnay,90,22.0,Western Australia,Margaret River
+Red Blend,90,34.0,Western Australia,Margaret River
+Riesling,90,20.0,South Australia,Clare Valley
+Chardonnay,88,35.0,Victoria,Yarra Valley
+Chardonnay,86,9.0,Unspecified,
+Shiraz,86,8.0,Unspecified,
+Sauvignon Blanc-Semillon,86,24.0,Western Australia,Margaret River
+Chardonnay,92,33.0,Western Australia,Margaret River
+Sauvignon Blanc,87,25.0,South Australia,Adelaide Hills
+White Blend,83,14.0,Victoria,Bendigo
+Sangiovese,83,12.0,South Australia,
+Shiraz,90,17.0,South Australia,Barossa Valley
+Shiraz,90,40.0,South Australia,Clare Valley
+Sparkling Blend,90,22.0,Tasmania,
+Chardonnay,89,29.0,South Australia,Adelaide Hills
+Shiraz,89,31.0,South Australia,Adelaide Hills
+Shiraz,88,24.0,South Australia,Clare Valley
+Riesling,91,21.0,South Australia,Eden Valley
+Chardonnay,85,25.0,South Australia,Adelaide Hills
+Sémillon,83,17.0,New South Wales,Hunter Valley
+Shiraz,83,15.0,New South Wales,Hunter Valley
+Pinot Gris,86,18.0,Victoria,
+Riesling,88,40.0,South Australia,Eden Valley
+Riesling,88,17.0,South Australia,McLaren Vale
+Riesling,88,20.0,South Australia,Clare Valley
+Shiraz,90,25.0,South Australia,Barossa Valley
+Chardonnay,88,130.0,Unspecified,
+Pinot Noir,84,48.0,Victoria,Mornington Peninsula
+Chardonnay,90,27.0,Western Australia,
+Chardonnay,90,79.0,Western Australia,Margaret River
+Shiraz,86,15.0,South Australia,
+Chardonnay,86,19.0,South Australia,
+Sauvignon Blanc,86,,South Australia,Adelaide Hills
+Cabernet Sauvignon,93,54.0,Western Australia,Margaret River
+G-S-M,92,20.0,South Australia,Barossa Valley
+Pinot Noir,85,15.0,Victoria,Yarra Valley
+G-S-M,87,20.0,South Australia,McLaren Vale
+Chardonnay,92,42.0,Victoria,Yarra Valley
+White Blend,87,12.0,South Australia,
+Red Blend,87,20.0,South Australia,McLaren Vale
+Mataro,88,28.0,South Australia,McLaren Vale
+Pinot Grigio,88,17.0,Victoria,
+Moscato,83,8.0,Unspecified,
+Grenache,88,20.0,South Australia,Barossa Valley
+Cabernet Sauvignon,89,25.0,South Australia,McLaren Vale
+Shiraz,89,15.0,South Australia,Clare Valley
+Shiraz,89,29.0,South Australia,Clare Valley
+Shiraz,89,17.0,South Australia,Langhorne Creek
+Shiraz,89,70.0,South Australia,Barossa Valley
+Cabernet Sauvignon,91,45.0,Western Australia,Margaret River
+Shiraz,89,15.0,Victoria,
+Shiraz,88,50.0,South Australia,Clare Valley
+Semillon-Sauvignon Blanc,88,27.0,Western Australia,Margaret River
+Red Blend,91,35.0,South Australia,Barossa Valley
+Cabernet Sauvignon,92,60.0,South Australia,Coonawarra
+Cabernet Blend,92,75.0,Victoria,Yarra Valley
+Cabernet Sauvignon,92,100.0,South Australia,Eden Valley
+Cabernet Sauvignon,91,20.0,Western Australia,Margaret River
+Cabernet Sauvignon,91,29.0,South Australia,Barossa Valley
+Cabernet Sauvignon-Merlot,91,70.0,South Australia,Coonawarra
+Semillon-Sauvignon Blanc,87,13.0,South Australia,Adelaide Hills
+Pinot Noir,89,40.0,Victoria,Yarra Valley
+Cabernet Sauvignon,91,23.0,Western Australia,Margaret River
+Chardonnay,91,35.0,Victoria,
+Cabernet Sauvignon,91,21.0,South Australia,McLaren Vale
+G-S-M,91,19.0,South Australia,Barossa Valley
+G-S-M,91,28.0,South Australia,McLaren Vale
+Shiraz,99,850.0,South Australia,
+Shiraz,97,95.0,South Australia,Barossa Valley
+Shiraz,96,89.0,South Australia,Barossa Valley
+Shiraz,96,820.0,South Australia,Eden Valley
+Shiraz,88,23.0,South Australia,McLaren Vale
+Shiraz-Viognier,88,27.0,South Australia,McLaren Vale
+Red Blend,88,15.0,Victoria,Bendigo
+Chardonnay,83,20.0,South Australia,McLaren Vale
+Chardonnay,90,32.0,South Australia,Adelaide Hills
+Shiraz-Cabernet Sauvignon,89,,South Australia,Langhorne Creek
+Red Blend,89,15.0,South Australia,Langhorne Creek
+Pinot Noir,88,50.0,Victoria,Mornington Peninsula
+Pinot Noir,88,12.0,Victoria,
+Semillon-Sauvignon Blanc,89,39.0,Western Australia,Margaret River
+Chardonnay,91,25.0,South Australia,Adelaide Hills
+Pinot Noir,88,95.0,Victoria,Yarra Valley
+Sauvignon Blanc,90,22.0,South Australia,Adelaide Hills
+Shiraz,90,52.0,South Australia,Clare Valley
+Cabernet Sauvignon,90,69.0,South Australia,Barossa Valley
+Shiraz,91,65.0,South Australia,McLaren Vale
+Shiraz,91,20.0,South Australia,Coonawarra
+Chardonnay,90,15.0,South Australia,McLaren Vale
+Red Blend,90,70.0,South Australia,
+Pinot Noir,87,42.0,Victoria,Yarra Valley
+Pinot Noir,85,18.0,Victoria,Yarra Valley
+Shiraz,85,8.0,Unspecified,
+Sauvignon Blanc-Semillon,92,35.0,Western Australia,Margaret River
+Shiraz,85,12.0,New South Wales,Western Plains
+Shiraz,85,13.0,Unspecified,
+Merlot,85,12.0,Unspecified,
+Shiraz,85,14.0,Unspecified,
+Red Blend,85,12.0,South Australia,
+Shiraz,93,30.0,Western Australia,Great Southern
+Sauvignon Blanc,89,22.0,South Australia,Adelaide Hills
+Rhône-style White Blend,89,35.0,South Australia,Barossa Valley
+Cabernet Sauvignon,86,20.0,South Australia,McLaren Vale
+Pinot Noir,91,35.0,Tasmania,
+Red Blend,93,125.0,Victoria,Heathcote
+Shiraz-Roussanne,90,29.0,South Australia,McLaren Vale
+Cabernet Sauvignon,90,70.0,Western Australia,Margaret River
+Riesling,90,20.0,Western Australia,Great Southern
+Cabernet Sauvignon,90,25.0,South Australia,Coonawarra
+Shiraz-Cabernet Sauvignon,88,17.0,South Australia,Langhorne Creek
+Mourvèdre,91,20.0,South Australia,Barossa Valley
+Cabernet Merlot,84,12.0,Unspecified,
+Chardonnay,85,21.0,New South Wales,Hunter Valley
+Chardonnay,85,17.0,South Australia,McLaren Vale
+Chardonnay,85,14.0,Western Australia,Margaret River
+Shiraz,90,62.0,Victoria,Heathcote
+Grenache,90,36.0,South Australia,McLaren Vale
+Chardonnay,90,30.0,Western Australia,Margaret River
+Cabernet Sauvignon,87,12.0,South Australia,
+Pinot Noir,86,67.0,South Australia,Adelaide Hills
+Shiraz,93,70.0,South Australia,Barossa Valley
+Shiraz,93,70.0,South Australia,Clare Valley
+Grenache,87,45.0,Victoria,Heathcote
+Chardonnay,93,70.0,South Australia,
+White Blend,90,18.0,South Australia,
+Shiraz,89,18.0,South Australia,McLaren Vale
+Pinot Gris,88,15.0,Victoria,
+Rhône-style Red Blend,90,35.0,South Australia,Barossa Valley
+Cabernet-Shiraz,96,150.0,South Australia,McLaren Vale
+Red Blend,95,95.0,South Australia,Langhorne Creek
+Chardonnay,93,89.0,Western Australia,Margaret River
+Pinot Noir,84,20.0,Western Australia,Pemberton
+Shiraz,84,12.0,South Australia,
+Cabernet Sauvignon,84,13.0,Unspecified,
+Chardonnay,90,28.0,South Australia,
+Chardonnay,90,27.0,Western Australia,
+Chardonnay,86,35.0,Victoria,Yarra Valley
+Shiraz,88,17.0,South Australia,Clare Valley
+Shiraz,89,18.0,South Australia,
+Chardonnay,88,30.0,South Australia,Adelaide Hills
+Grenache,89,22.0,South Australia,McLaren Vale
+Shiraz,89,40.0,South Australia,McLaren Vale
+Shiraz,89,12.0,South Australia,
+Shiraz,89,16.0,South Australia,
+Pinot Gris,89,23.0,South Australia,
+Chardonnay,88,36.0,Western Australia,Margaret River
+Shiraz,89,40.0,South Australia,Barossa Valley
+Cabernet Sauvignon,89,20.0,South Australia,Coonawarra
+Shiraz-Cabernet Sauvignon,89,14.0,Unspecified,
+Shiraz,93,50.0,South Australia,Barossa Valley
+Sparkling Blend,84,10.0,Unspecified,
+Chardonnay,84,11.0,South Australia,
+Shiraz-Cabernet Sauvignon,87,17.0,South Australia,Clare Valley
+Cabernet Sauvignon,91,70.0,Western Australia,Great Southern
+Cabernet Sauvignon,91,15.0,South Australia,Barossa Valley
+Rosé,88,20.0,Western Australia,Margaret River
+Shiraz,90,15.0,New South Wales,Hunter Valley
+Shiraz,90,65.0,South Australia,McLaren Vale
+Shiraz,91,25.0,South Australia,Barossa Valley
+Grenache,91,29.0,South Australia,McLaren Vale
+Pinot Noir,87,36.0,Victoria,Yarra Valley
+Pinot Gris,86,18.0,South Australia,Eden Valley
+Pinot Grigio,86,10.0,Victoria,
+Chardonnay,86,9.0,Unspecified,
+Bordeaux-style Red Blend,89,30.0,Victoria,Yarra Valley
+Shiraz,89,17.0,South Australia,Clare Valley
+Pinot Noir,87,14.0,Victoria,Yarra Valley
+Mataro,94,75.0,South Australia,Barossa Valley
+Shiraz,90,60.0,South Australia,Langhorne Creek
+Chardonnay,91,31.0,South Australia,Adelaide Hills
+Bordeaux-style Red Blend,88,145.0,Victoria,Yarra Valley
+Shiraz-Cabernet Sauvignon,83,10.0,Unspecified,
+Semillon-Sauvignon Blanc,83,20.0,Western Australia,Margaret River
+Shiraz,83,12.0,South Australia,McLaren Vale
+Chardonnay,88,35.0,Victoria,Yarra Valley
+Riesling,88,17.0,South Australia,Clare Valley
+Shiraz,92,85.0,South Australia,McLaren Vale
+Cabernet Sauvignon,92,60.0,South Australia,McLaren Vale
+Chardonnay,92,42.0,Victoria,Yarra Valley
+Chardonnay,85,8.0,Unspecified,
+Chardonnay,85,7.0,South Australia,
+Chardonnay,85,16.0,Western Australia,
+Chardonnay,84,30.0,South Australia,Coonawarra
+Chardonnay,84,23.0,South Australia,Adelaide Hills
+Riesling,87,10.0,Unspecified,
+Grenache,87,18.0,South Australia,McLaren Vale
+Shiraz,87,19.0,South Australia,McLaren Vale
+Cabernet Sauvignon,87,18.0,South Australia,McLaren Vale
+Sangiovese,87,,South Australia,McLaren Vale
+Shiraz-Grenache,87,19.0,South Australia,McLaren Vale
+Chardonnay,87,26.0,South Australia,McLaren Vale
+Rhône-style Red Blend,87,20.0,South Australia,
+Grenache,87,15.0,South Australia,McLaren Vale
+Shiraz,87,18.0,South Australia,
+Shiraz,87,12.0,Unspecified,
+Chardonnay,87,15.0,South Australia,Barossa Valley
+Grenache,87,24.0,South Australia,McLaren Vale
+Chenin Blanc,87,16.0,South Australia,McLaren Vale
+Shiraz,87,53.0,South Australia,Barossa Valley
+Cabernet Sauvignon,90,22.0,Western Australia,Margaret River
+Cabernet Sauvignon,90,40.0,South Australia,Coonawarra
+Shiraz,89,85.0,South Australia,McLaren Vale
+Pinot Noir,90,65.0,Tasmania,
+Pinot Noir,90,20.0,South Australia,Adelaide Hills
+Shiraz,88,14.0,New South Wales,Hunter Valley
+Rosé,90,20.0,South Australia,Barossa Valley
+Champagne Blend,89,32.0,Tasmania,
+Grenache,89,25.0,South Australia,Barossa Valley
+Grenache,92,65.0,South Australia,McLaren Vale
+Shiraz,92,95.0,South Australia,McLaren Vale
+Shiraz,92,65.0,South Australia,McLaren Vale
+Syrah,92,55.0,Victoria,Yarra Valley
+Chardonnay,91,60.0,Victoria,Yarra Valley
+Cabernet Sauvignon,89,29.0,Western Australia,Great Southern
+Rhône-style Red Blend,87,10.0,South Australia,
+Sauvignon Blanc,91,16.0,South Australia,Adelaide Hills
+Pinot Noir,84,28.0,South Australia,Adelaide Hills
+Chardonnay,87,20.0,South Australia,Clare Valley
+Cabernet Sauvignon,87,20.0,South Australia,Barossa Valley
+Cabernet Sauvignon,89,17.0,South Australia,Clare Valley
+Rhône-style Red Blend,85,22.0,South Australia,Barossa Valley
+Chardonnay,85,12.0,South Australia,
+Chardonnay,85,12.0,Unspecified,
+Chardonnay,85,9.0,Unspecified,
+Chardonnay,88,18.0,South Australia,Adelaide Hills
+Cabernet Sauvignon,83,8.0,South Australia,
+Pinot Noir,85,13.0,South Australia,Adelaide Hills
+Chardonnay,88,20.0,Unspecified,
+Sauvignon Blanc,85,13.0,South Australia,Adelaide Hills
+Riesling,88,17.0,Western Australia,Great Southern
+Shiraz,88,15.0,Unspecified,
+Shiraz,88,24.0,South Australia,Coonawarra
+Petite Sirah,88,27.0,Victoria,Rutherglen
+Cabernet Sauvignon,86,10.0,Western Australia,
+Bordeaux-style Red Blend,90,52.0,South Australia,Clare Valley
+Cabernet Sauvignon,90,17.0,South Australia,Clare Valley
+Cabernet Blend,90,27.0,South Australia,Langhorne Creek
+Cabernet Sauvignon,90,30.0,Western Australia,Margaret River
+Cabernet Sauvignon,90,22.0,South Australia,McLaren Vale
+Cabernet Sauvignon,91,180.0,South Australia,Clare Valley
+Bordeaux-style Red Blend,87,55.0,Western Australia,Margaret River
+Shiraz,87,9.0,South Australia,
+Riesling,91,20.0,South Australia,Eden Valley
+Cabernet Sauvignon,90,25.0,Western Australia,Great Southern
+Shiraz,89,28.0,South Australia,McLaren Vale
+Grenache,90,19.0,South Australia,Barossa Valley
+Bordeaux-style Red Blend,90,109.0,Western Australia,Margaret River
+Pinot Noir,91,39.0,Tasmania,
+Shiraz,88,65.0,New South Wales,Hilltops
+Cabernet Sauvignon,89,25.0,Victoria,Bendigo
+Cabernet Sauvignon,89,20.0,South Australia,Coonawarra
+Cabernet Sauvignon,89,19.0,South Australia,
+Cabernet Sauvignon,89,35.0,South Australia,
+Bordeaux-style Red Blend,89,145.0,Victoria,Yarra Valley
+Sauvignon Blanc,88,13.0,South Australia,
+Rhône-style White Blend,88,30.0,South Australia,Barossa Valley
+Cabernet Sauvignon,90,17.0,South Australia,Barossa Valley
+Pinot Noir,86,17.0,Western Australia,Pemberton
+Shiraz,88,15.0,South Australia,
+Sparkling Blend,88,12.0,New South Wales,Riverina
+Rosé,88,,Unspecified,
+Grenache,85,16.0,South Australia,
+Shiraz,93,65.0,South Australia,
+Cabernet Sauvignon,93,50.0,South Australia,Coonawarra
+Grenache,87,65.0,South Australia,McLaren Vale
+Sauvignon Blanc-Semillon,87,20.0,Western Australia,Margaret River
+Tokay,98,86.0,Victoria,Rutherglen
+Muscat,95,300.0,Victoria,Rutherglen
+Muscat,94,86.0,Victoria,Rutherglen
+Shiraz,90,20.0,South Australia,Padthaway
+Pinot Noir,88,20.0,Western Australia,
+Pinot Noir,88,32.0,South Australia,Adelaide Hills
+Viognier,89,9.0,South Australia,
+Chardonnay,87,13.0,New South Wales,Hunter Valley
+Riesling,88,19.0,South Australia,McLaren Vale
+Shiraz,88,36.0,Victoria,Gippsland
+Chardonnay,90,38.0,South Australia,Padthaway
+Chardonnay,88,16.0,South Australia,Barossa Valley
+Pinot Noir,91,36.0,Victoria,Mornington Peninsula
+Pinot Noir,84,16.0,Victoria,Strathbogie Ranges
+Shiraz,86,11.0,Unspecified,
+Cabernet Sauvignon,93,75.0,South Australia,McLaren Vale
+Mataro,92,32.0,South Australia,Barossa Valley
+Semillon-Sauvignon Blanc,82,23.0,Western Australia,Margaret River
+Cabernet Sauvignon,91,50.0,South Australia,Clare Valley
+Shiraz,91,50.0,South Australia,Barossa Valley
+Sparkling Blend,88,12.0,Unspecified,
+Shiraz,94,100.0,South Australia,Barossa Valley
+Grenache,91,32.0,South Australia,McLaren Vale
+Shiraz,91,85.0,South Australia,McLaren Vale
+Shiraz,91,85.0,South Australia,McLaren Vale
+Chardonnay,89,42.0,Victoria,Yarra Valley
+Syrah,85,26.0,South Australia,Clare Valley
+Viognier,86,29.0,South Australia,McLaren Vale
+Shiraz,87,30.0,South Australia,McLaren Vale
+Shiraz,87,25.0,South Australia,McLaren Vale
+Shiraz,87,22.0,Victoria,Grampians
+Shiraz,87,20.0,South Australia,McLaren Vale
+Shiraz,87,25.0,South Australia,McLaren Vale
+Sauvignon Blanc-Semillon,86,13.0,Western Australia,
+Cabernet Sauvignon,86,10.0,Western Australia,
+Moscato,89,14.0,Victoria,
+Riesling,89,35.0,Victoria,
+Cabernet Sauvignon,92,45.0,South Australia,Adelaide Hills
+Shiraz,92,25.0,Victoria,
+Cabernet Sauvignon,89,17.0,South Australia,Langhorne Creek
+Chardonnay,90,30.0,Victoria,Yarra Valley
+Sauvignon Blanc,83,17.0,Western Australia,Margaret River
+Shiraz,89,21.0,South Australia,McLaren Vale
+Viognier,86,15.0,Western Australia,Pemberton
+Pinot Grigio,86,30.0,South Australia,Adelaide Hills
+Riesling,86,12.0,Unspecified,
+Grenache,90,80.0,South Australia,
+Shiraz-Grenache,90,19.0,South Australia,McLaren Vale
+Cabernet Sauvignon,89,20.0,South Australia,Coonawarra
+Shiraz,89,19.0,South Australia,McLaren Vale
+Cabernet Sauvignon,86,11.0,Unspecified,
+Chardonnay,86,12.0,Unspecified,
+Shiraz-Viognier,86,25.0,Western Australia,Great Southern
+Petite Sirah,86,25.0,South Australia,McLaren Vale
+Shiraz,86,20.0,Western Australia,Margaret River
+Merlot,86,10.0,Unspecified,
+Merlot,86,15.0,South Australia,McLaren Vale
+Chardonnay,92,27.0,Western Australia,Pemberton
+Sparkling Blend,89,22.0,Tasmania,
+Shiraz,92,60.0,South Australia,McLaren Vale
+Shiraz,92,30.0,South Australia,Barossa Valley
+Pinot Noir,87,65.0,Tasmania,
+Pinot Noir,87,20.0,South Australia,Adelaide Hills
+Shiraz,89,18.0,Western Australia,
+Sauvignon Blanc,86,20.0,South Australia,Adelaide Hills
+Zinfandel,88,26.0,South Australia,Barossa Valley
+Tempranillo,88,18.0,Victoria,
+Cabernet Sauvignon-Shiraz,90,23.0,Victoria,
+Riesling,85,15.0,South Australia,Clare Valley
+Viognier-Marsanne,89,17.0,South Australia,McLaren Vale
+Cabernet Sauvignon,89,30.0,South Australia,
+Shiraz,89,39.0,South Australia,Langhorne Creek
+Shiraz,88,20.0,South Australia,McLaren Vale
+Riesling,87,21.0,Western Australia,Great Southern
+Sauvignon Blanc-Semillon,86,20.0,Western Australia,Margaret River
+Pinot Noir,86,20.0,South Australia,Coonawarra
+Shiraz,91,125.0,Victoria,Heathcote
+Moscato,84,15.0,Unspecified,
+Malbec,84,8.0,Unspecified,
+White Blend,84,17.0,South Australia,
+Rosé,84,12.0,South Australia,
+Pinot Grigio,84,9.0,Unspecified,
+Shiraz,87,21.0,South Australia,McLaren Vale
+Shiraz,87,25.0,South Australia,Barossa Valley
+Pinot Noir,87,35.0,Victoria,Yarra Valley
+Pinot Grigio,89,15.0,Victoria,
+Grenache,89,65.0,South Australia,McLaren Vale
+Marsanne-Roussanne,89,60.0,Victoria,Yarra Valley
+Shiraz,89,32.0,South Australia,Barossa Valley
+Muscadelle,90,16.0,Victoria,Rutherglen
+Muscat,90,16.0,Victoria,Rutherglen
+Shiraz,90,85.0,South Australia,McLaren Vale
+Chardonnay,90,15.0,Western Australia,Margaret River
+Chardonnay,90,33.0,Western Australia,Margaret River
+Bordeaux-style Red Blend,94,110.0,Western Australia,Margaret River
+Shiraz,93,65.0,South Australia,McLaren Vale
+Bordeaux-style Red Blend,93,109.0,Western Australia,Margaret River
+Pinot Noir,91,,Victoria,
+Pinot Noir,91,42.0,Victoria,Yarra Valley
+Chardonnay,89,14.0,South Australia,Adelaide Hills
+Shiraz,89,25.0,South Australia,Barossa Valley
+Shiraz,89,35.0,South Australia,Barossa Valley
+Riesling,89,40.0,South Australia,Clare Valley
+Grenache,89,59.0,South Australia,Barossa Valley
+Shiraz,89,25.0,South Australia,McLaren Vale
+Grenache,89,37.0,South Australia,Barossa Valley
+Chardonnay,90,17.0,South Australia,
+Riesling,90,13.0,South Australia,Adelaide Hills
+Muscat,90,19.0,Victoria,Rutherglen
+Cabernet Sauvignon,90,18.0,South Australia,Coonawarra
+Cabernet Sauvignon,90,20.0,Western Australia,Margaret River
+Shiraz,86,20.0,South Australia,
+Shiraz,91,60.0,South Australia,Clare Valley
+Riesling,91,26.0,South Australia,Clare Valley
+Viognier,93,45.0,South Australia,Eden Valley
+Pinot Noir,92,50.0,Victoria,Mornington Peninsula
+Cabernet Sauvignon,88,16.0,South Australia,Barossa Valley
+Shiraz,88,14.0,Victoria,
+Riesling,91,30.0,South Australia,Clare Valley
+Riesling,88,16.0,South Australia,Eden Valley
+Savagnin,88,15.0,South Australia,Langhorne Creek
+Mataro,88,135.0,South Australia,Barossa Valley
+Verdelho,88,15.0,South Australia,Langhorne Creek
+Chardonnay,89,29.0,South Australia,Adelaide Hills
+Shiraz,86,60.0,Victoria,Heathcote
+Shiraz-Viognier,89,19.0,Victoria,Yarra Valley
+Cabernet Sauvignon,88,16.0,South Australia,Barossa Valley
+Grenache,90,20.0,South Australia,McLaren Vale
+Grenache,90,21.0,South Australia,Barossa Valley
+Grenache,90,45.0,South Australia,
+Grenache,87,188.0,South Australia,Barossa Valley
+Shiraz,87,65.0,New South Wales,Gundagai
+Marsanne,87,25.0,Victoria,Goulburn Valley
+Chardonnay,83,8.0,Unspecified,
+Rosé,90,20.0,South Australia,Barossa Valley
+Shiraz,91,105.0,South Australia,McLaren Vale
+Shiraz,91,35.0,South Australia,Barossa Valley
+Shiraz,91,37.0,South Australia,McLaren Vale
+Shiraz,91,70.0,South Australia,Clare Valley
+Shiraz,91,125.0,New South Wales,Hunter Valley
+Shiraz-Viognier,91,21.0,Victoria,
+Cabernet Sauvignon,85,20.0,South Australia,Barossa Valley
+Shiraz,93,90.0,Victoria,Yarra Valley
+Cabernet Sauvignon,93,29.0,Western Australia,Margaret River
+Shiraz,93,40.0,South Australia,Barossa Valley
+Chardonnay,88,31.0,South Australia,Eden Valley
+Cabernet Sauvignon,90,22.0,Western Australia,
+Chardonnay,90,16.0,Victoria,
+Shiraz,90,24.0,Western Australia,
+Chardonnay,90,15.0,Western Australia,Margaret River
+Chardonnay,90,8.0,Unspecified,
+Chardonnay,90,20.0,Western Australia,
+Chardonnay,88,15.0,Western Australia,Margaret River
+Chardonnay,87,36.0,Victoria,Mornington Peninsula
+Viognier,87,,South Australia,Wrattonbully
+Shiraz,91,70.0,Victoria,Heathcote
+Chardonnay,94,60.0,Tasmania,
+Chardonnay,84,17.0,South Australia,McLaren Vale
+Shiraz,88,13.0,South Australia,Barossa Valley
+Shiraz,95,85.0,Victoria,Heathcote
+Red Blend,83,14.0,Unspecified,
+Mataro,90,28.0,South Australia,McLaren Vale
+Bordeaux-style Red Blend,89,25.0,South Australia,McLaren Vale
+Sémillon,90,48.0,New South Wales,Hunter Valley
+Cabernet Sauvignon,92,180.0,South Australia,Clare Valley
+Cabernet Sauvignon,91,26.0,South Australia,Coonawarra
+Shiraz,91,20.0,Western Australia,Great Southern
+Shiraz,89,26.0,South Australia,Clare Valley
+Shiraz,98,850.0,South Australia,
+Shiraz,96,150.0,South Australia,Barossa Valley
+Shiraz-Viognier,96,225.0,South Australia,Barossa Valley
+Shiraz,95,100.0,South Australia,Barossa Valley
+Shiraz,95,105.0,South Australia,Barossa Valley
+Shiraz,95,125.0,South Australia,Barossa Valley
+Chardonnay,90,20.0,Western Australia,Margaret River
+Riesling,90,15.0,South Australia,Clare Valley
+Pinot Noir,90,28.0,South Australia,Adelaide Hills
+Shiraz,90,36.0,Victoria,Pyrenees
+Shiraz,87,11.0,Unspecified,
+Sauvignon Blanc,87,25.0,Tasmania,
+Shiraz-Viognier,87,25.0,South Australia,Barossa Valley
+Chardonnay,87,20.0,Western Australia,
+Grenache,87,25.0,South Australia,McLaren Vale
+Chardonnay,87,13.0,South Australia,
+Riesling,87,18.0,Western Australia,
+Riesling,87,19.0,South Australia,Eden Valley
+Riesling,87,19.0,Tasmania,
+Chardonnay,87,13.0,South Australia,McLaren Vale
+Chardonnay,87,10.0,Unspecified,
+Riesling,87,16.0,Tasmania,
+Chardonnay,83,5.0,Unspecified,
+Chardonnay,83,5.0,Unspecified,
+Shiraz,91,25.0,Western Australia,Great Southern
+Shiraz,91,18.0,South Australia,McLaren Vale
+Grenache,92,36.0,South Australia,McLaren Vale
+Riesling,91,40.0,Western Australia,Great Southern
+Shiraz,91,45.0,South Australia,Barossa Valley
+Sémillon,83,17.0,New South Wales,Hunter Valley
+Chardonnay,94,89.0,Western Australia,Margaret River
+Riesling,91,35.0,Western Australia,Great Southern
+Sparkling Blend,91,40.0,Tasmania,
+Shiraz,90,21.0,South Australia,McLaren Vale
+Cabernet Sauvignon,90,20.0,South Australia,Padthaway
+Shiraz,90,20.0,South Australia,Barossa Valley
+Shiraz,90,40.0,South Australia,Barossa Valley
+Shiraz,90,20.0,Western Australia,Margaret River
+Shiraz,90,60.0,South Australia,McLaren Vale
+Shiraz,90,50.0,South Australia,
+Chardonnay,89,36.0,Western Australia,Margaret River
+Grenache,89,25.0,South Australia,McLaren Vale
+Shiraz,89,20.0,South Australia,Barossa Valley
+White Blend,89,14.0,South Australia,
+Sauvignon Blanc,87,14.0,Victoria,
+Shiraz,93,33.0,South Australia,Barossa Valley
+Cabernet Sauvignon,92,60.0,South Australia,McLaren Vale
+Mourvèdre,91,95.0,South Australia,Barossa Valley
+Shiraz,91,36.0,New South Wales,Hunter Valley
+Riesling,93,45.0,South Australia,Eden Valley
+Grenache,93,54.0,South Australia,Barossa Valley
+Pinot Noir,85,25.0,South Australia,
+Shiraz,85,20.0,Victoria,
+Red Blend,85,13.0,Unspecified,
+Bordeaux-style Red Blend,87,50.0,South Australia,Coonawarra
+Sauvignon Blanc,87,18.0,South Australia,Adelaide Hills
+Shiraz,87,15.0,South Australia,
+Shiraz,87,10.0,Unspecified,
+Chardonnay,84,13.0,Unspecified,
+Chardonnay,89,20.0,Western Australia,Margaret River
+Chardonnay,83,13.0,South Australia,McLaren Vale
+Chardonnay,87,13.0,Victoria,Yarra Valley
+Shiraz,90,66.0,Victoria,Goulburn Valley
+Shiraz,87,10.0,Unspecified,
+Riesling,88,24.0,South Australia,Clare Valley
+Sémillon,88,25.0,New South Wales,Hunter Valley
+Shiraz,90,14.0,South Australia,McLaren Vale
+Cabernet Sauvignon,85,10.0,Unspecified,
+Shiraz,91,50.0,South Australia,Barossa Valley
+Shiraz,91,27.0,South Australia,
+Shiraz,92,19.0,South Australia,Barossa Valley
+Red Blend,92,20.0,South Australia,Barossa Valley
+Shiraz,92,75.0,South Australia,McLaren Vale
+Chardonnay,90,30.0,New South Wales,Hunter Valley
+Shiraz,90,15.0,Unspecified,
+Sparkling Blend,87,44.0,Tasmania,
+Shiraz,93,33.0,South Australia,Barossa Valley
+Chardonnay,87,18.0,South Australia,Eden Valley
+Chardonnay,87,15.0,South Australia,
+Riesling,87,25.0,South Australia,Clare Valley
+Chardonnay,87,8.0,Unspecified,
+Riesling,87,14.0,South Australia,
+Chardonnay,86,21.0,New South Wales,Orange
+Chardonnay,86,8.0,Unspecified,
+Viognier,88,16.0,South Australia,McLaren Vale
+Grenache,89,80.0,South Australia,Barossa Valley
+Grenache,89,17.0,South Australia,Clare Valley
+Grenache,89,75.0,South Australia,
+Cabernet Sauvignon,89,31.0,South Australia,
+Cabernet Sauvignon-Merlot,89,40.0,South Australia,Coonawarra
+Shiraz,91,60.0,South Australia,Barossa Valley
+Chardonnay,91,25.0,South Australia,Adelaide Hills
+Red Blend,91,17.0,Unspecified,
+Pinot Noir,82,15.0,Unspecified,
+Shiraz,82,23.0,South Australia,Barossa Valley
+Shiraz,81,8.0,Unspecified,
+Red Blend,81,20.0,South Australia,McLaren Vale
+Shiraz-Viognier,90,36.0,Victoria,Yarra Valley
+Shiraz,90,50.0,South Australia,Coonawarra
+Shiraz,90,100.0,South Australia,Barossa Valley
+Shiraz,90,36.0,South Australia,Barossa Valley
+Red Blend,89,15.0,South Australia,
+Shiraz,89,12.0,South Australia,
+Riesling,90,15.0,South Australia,Clare Valley
+Grenache,92,60.0,South Australia,Barossa Valley
+Muscat,92,35.0,Victoria,Rutherglen
+Muscat,92,100.0,Victoria,Rutherglen
+Muscat,91,19.0,Victoria,Rutherglen
+Grenache,88,32.0,South Australia,McLaren Vale
+Chardonnay,86,9.0,Unspecified,
+Grenache,88,32.0,South Australia,McLaren Vale
+Shiraz,88,35.0,South Australia,Clare Valley
+Shiraz,92,30.0,South Australia,McLaren Vale
+Shiraz,92,23.0,Victoria,
+Shiraz-Grenache,88,19.0,South Australia,McLaren Vale
+Grenache,88,70.0,South Australia,Barossa Valley
+Riesling,91,17.0,South Australia,Clare Valley
+Chardonnay,88,14.0,New South Wales,Hunter Valley
+Chardonnay,88,40.0,South Australia,Adelaide Hills
+Riesling,88,24.0,South Australia,Clare Valley
+Riesling,88,21.0,South Australia,Clare Valley
+Chardonnay,87,24.0,New South Wales,Hunter Valley
+Chardonnay,87,19.0,South Australia,Coonawarra
+Chardonnay,87,10.0,Victoria,
+Cabernet Sauvignon,89,19.0,South Australia,Barossa Valley
+Cabernet Sauvignon,89,16.0,South Australia,McLaren Vale
+Sauvignon Blanc,89,13.0,South Australia,
+Shiraz,91,22.0,South Australia,McLaren Vale
+Shiraz,91,16.0,South Australia,Barossa Valley
+Shiraz,88,17.0,South Australia,McLaren Vale
+Shiraz,88,20.0,South Australia,McLaren Vale
+Shiraz,96,500.0,South Australia,
+Merlot,88,15.0,Unspecified,
+Cabernet Sauvignon,86,22.0,Western Australia,Margaret River
+Sauvignon Blanc-Semillon,86,16.0,Western Australia,Margaret River
+Cabernet Sauvignon,86,15.0,South Australia,
+Pinot Noir,86,36.0,Western Australia,Pemberton
+Shiraz,86,13.0,South Australia,
+Shiraz,86,60.0,South Australia,Padthaway
+G-S-M,93,49.0,South Australia,
+Shiraz,93,37.0,South Australia,Barossa Valley
+Riesling,87,17.0,Western Australia,
+Chardonnay,87,20.0,Victoria,
+Chardonnay,87,9.0,Unspecified,
+Chardonnay,87,18.0,Victoria,Mornington Peninsula
+Chardonnay,87,30.0,Western Australia,
+Chardonnay,87,36.0,South Australia,Eden Valley
+Chardonnay,87,29.0,South Australia,Padthaway
+Riesling,90,38.0,South Australia,Clare Valley
+Cabernet Sauvignon,90,18.0,South Australia,Coonawarra
+Chardonnay,88,25.0,Western Australia,Margaret River
+Shiraz,88,,South Australia,McLaren Vale
+Shiraz,89,17.0,South Australia,Barossa Valley
+Shiraz,89,29.0,South Australia,McLaren Vale
+Riesling,88,18.0,South Australia,Adelaide Hills
+Shiraz,95,125.0,South Australia,Barossa Valley
+Shiraz,95,145.0,South Australia,McLaren Vale
+Shiraz,90,21.0,Western Australia,Margaret River
+Shiraz,90,13.0,Western Australia,
+Shiraz,90,35.0,South Australia,McLaren Vale
+Shiraz,90,40.0,South Australia,McLaren Vale
+Shiraz,90,40.0,South Australia,McLaren Vale
+Shiraz,90,55.0,South Australia,McLaren Vale
+Shiraz,90,23.0,New South Wales,Hunter Valley
+Shiraz,90,18.0,Victoria,Bendigo
+Chardonnay,89,30.0,New South Wales,Tumbarumba
+Pinot Noir,89,125.0,Victoria,Yarra Valley
+Red Blend,89,125.0,Victoria,Heathcote
+Shiraz,89,13.0,South Australia,Barossa Valley
+Red Blend,89,75.0,Victoria,Yarra Valley
+Shiraz,88,15.0,Western Australia,Margaret River
+Shiraz,88,30.0,Victoria,Heathcote
+Grenache,93,65.0,South Australia,McLaren Vale
+Shiraz,93,230.0,South Australia,Barossa Valley
+Shiraz,93,57.0,South Australia,Barossa Valley
+Shiraz,93,99.0,South Australia,
+Sémillon,94,32.0,New South Wales,
+Bordeaux-style Red Blend,87,38.0,Western Australia,Margaret River
+Cabernet Sauvignon,87,20.0,Victoria,Heathcote
+Chardonnay,88,14.0,South Australia,
+Pinot Noir,89,17.0,South Australia,Adelaide Hills
+Shiraz,93,60.0,South Australia,McLaren Vale
+Shiraz,93,38.0,South Australia,McLaren Vale
+Zinfandel,90,32.0,South Australia,Barossa Valley
+Red Blend,88,20.0,South Australia,Clare Valley
+Shiraz,88,25.0,New South Wales,Gundagai
+Red Blend,89,10.0,South Australia,
+Chardonnay,91,30.0,Unspecified,
+Chardonnay,91,66.0,South Australia,Henty
+Riesling,89,17.0,South Australia,Eden Valley
+Viognier,85,14.0,South Australia,Langhorne Creek
+Rhône-style White Blend,85,14.0,South Australia,
+Moscato,85,9.0,New South Wales,
+Sparkling Blend,92,80.0,Tasmania,
+Chardonnay,87,13.0,New South Wales,Mudgee
+Chardonnay,87,14.0,New South Wales,Hunter Valley
+Chardonnay,87,15.0,South Australia,
+Chardonnay,87,10.0,New South Wales,Hunter Valley
+Chardonnay,87,12.0,New South Wales,Hunter Valley
+Chardonnay,87,18.0,South Australia,Adelaide Hills
+Chardonnay,87,12.0,South Australia,Barossa Valley
+Chardonnay,87,16.0,South Australia,
+Chardonnay,87,10.0,Unspecified,
+Chardonnay,86,15.0,South Australia,Adelaide Hills
+Chardonnay,86,8.0,Unspecified,
+Chardonnay,88,15.0,Unspecified,
+Shiraz-Cabernet Sauvignon,88,14.0,Western Australia,
+Chardonnay,88,21.0,Western Australia,
+Chardonnay,88,10.0,New South Wales,
+Chardonnay,87,16.0,South Australia,Adelaide Hills
+Chardonnay,87,7.0,Unspecified,
+Chardonnay,87,45.0,Western Australia,
+Shiraz,90,25.0,Victoria,Pyrenees
+Shiraz,90,17.0,Victoria,Bendigo
+Cabernet Sauvignon,90,19.0,South Australia,McLaren Vale
+Bordeaux-style Red Blend,90,85.0,Victoria,Yarra Valley
+Chardonnay,89,14.0,New South Wales,Hunter Valley
+Shiraz,96,120.0,South Australia,McLaren Vale
+Cabernet Sauvignon,95,84.0,Western Australia,Margaret River
+Shiraz,95,60.0,South Australia,Clare Valley
+Shiraz,83,10.0,Victoria,
+Chardonnay,91,30.0,Western Australia,Margaret River
+Chardonnay,91,20.0,Western Australia,Margaret River
+Pinot Noir,86,,Victoria,Yarra Valley
+Pinot Noir,85,17.0,Victoria,Geelong
+Shiraz,94,95.0,South Australia,McLaren Vale
+Shiraz,94,75.0,South Australia,McLaren Vale
+Shiraz-Cabernet Sauvignon,85,9.0,Unspecified,
+Pinot Noir,85,17.0,Victoria,Yarra Valley
+Champagne Blend,85,20.0,South Australia,Adelaide Hills
+Shiraz,94,50.0,South Australia,Barossa Valley
+Shiraz,94,100.0,Victoria,
+Shiraz,88,9.0,South Australia,
+Riesling,88,11.0,Victoria,Alpine Valleys
+Semillon-Chardonnay,85,8.0,South Australia,Barossa Valley
+Cabernet Sauvignon-Shiraz,90,23.0,South Australia,Barossa Valley
+Chardonnay,86,18.0,Victoria,Yarra Valley
+Pinot Noir,90,42.0,Victoria,Yarra Valley
+Pinot Noir,90,42.0,Victoria,Yarra Valley
+Cabernet Sauvignon,91,38.0,South Australia,Barossa Valley
+Shiraz,91,24.0,South Australia,Clare Valley
+Sauvignon Blanc,88,15.0,South Australia,Adelaide Hills
+Sauvignon Blanc-Semillon,88,23.0,Western Australia,Margaret River
+Chardonnay,88,25.0,South Australia,Adelaide Hills
+Chardonnay,85,11.0,Unspecified,
+Pinot Noir,91,35.0,Tasmania,
+Pinot Grigio,87,14.0,South Australia,Eden Valley
+Moscato,87,14.0,Victoria,
+Zinfandel,87,30.0,South Australia,McLaren Vale
+G-S-M,86,10.0,Unspecified,
+G-S-M,86,25.0,South Australia,McLaren Vale
+Grenache-Shiraz,85,12.0,South Australia,
+Moscato,84,9.0,Victoria,
+Muscat,84,15.0,Unspecified,
+Grenache,88,36.0,South Australia,McLaren Vale
+Shiraz-Grenache,92,65.0,South Australia,McLaren Vale
+Pinot Noir,93,55.0,Victoria,Mornington Peninsula
+Shiraz,87,17.0,South Australia,Clare Valley
+Shiraz,87,20.0,South Australia,Padthaway
+Shiraz,87,19.0,Victoria,Goulburn Valley
+Shiraz,90,36.0,New South Wales,Hunter Valley
+Shiraz,90,27.0,South Australia,McLaren Vale
+Shiraz,90,25.0,South Australia,Adelaide Hills
+Shiraz,90,18.0,Western Australia,
+Shiraz-Viognier,90,29.0,South Australia,McLaren Vale
+Pinot Noir,86,20.0,Victoria,Yarra Valley
+Durif,84,30.0,Victoria,Rutherglen
+Shiraz,84,11.0,Unspecified,
+Grenache,84,18.0,South Australia,McLaren Vale
+Shiraz,84,9.0,Unspecified,
+Pinot Noir,84,9.0,South Australia,
+Red Blend,84,15.0,South Australia,McLaren Vale
+Cabernet Sauvignon,88,11.0,South Australia,Barossa Valley
+Chardonnay,87,10.0,South Australia,Barossa Valley
+Chardonnay,85,8.0,Unspecified,
+Pinot Noir,85,35.0,Victoria,Strathbogie Ranges
+Pinot Noir,84,26.0,Victoria,Yarra Valley
+Sparkling Blend,84,10.0,South Australia,
+Pinot Noir,84,18.0,South Australia,Adelaide Hills
+Chardonnay,85,19.0,South Australia,Padthaway
+Shiraz-Viognier,94,95.0,Victoria,Yarra Valley
+Shiraz,93,104.0,South Australia,Barossa Valley
+Shiraz,93,30.0,South Australia,
+Rosé,84,28.0,Western Australia,Margaret River
+Pinot Noir,88,32.0,South Australia,Adelaide Hills
+Cabernet Sauvignon,93,60.0,South Australia,Clare Valley
+Malbec,90,30.0,South Australia,Barossa Valley
+Red Blend,90,16.0,South Australia,McLaren Vale
+Cabernet Sauvignon,92,31.0,South Australia,Barossa Valley
+Shiraz,92,25.0,South Australia,Barossa Valley
+Shiraz-Viognier,92,125.0,South Australia,Barossa Valley
+Riesling,92,43.0,South Australia,Eden Valley
+Shiraz,92,75.0,South Australia,McLaren Vale
+Cabernet Sauvignon,92,49.0,South Australia,McLaren Vale
+Shiraz,93,69.0,South Australia,Barossa Valley
+Shiraz,93,60.0,South Australia,McLaren Vale
+Mourvèdre-Syrah,92,18.0,South Australia,McLaren Vale
+Chardonnay,91,75.0,Western Australia,Margaret River
+Chardonnay,91,35.0,South Australia,Adelaide Hills
+Shiraz,91,25.0,South Australia,McLaren Vale
+Shiraz,91,20.0,South Australia,McLaren Vale
+Pinot Noir,81,15.0,Victoria,
+Chardonnay,93,70.0,South Australia,Adelaide Hills
+Pinot Noir,84,15.0,Western Australia,Pemberton
+Sparkling Blend,85,17.0,South Australia,Padthaway
+Cabernet Sauvignon,86,11.0,Unspecified,
+Chardonnay,88,27.0,South Australia,Padthaway
+Shiraz,91,20.0,South Australia,Barossa Valley
+Sparkling Blend,88,27.0,Tasmania,
+Pinot Noir,92,55.0,Victoria,Mornington Peninsula
+Chardonnay,92,65.0,Victoria,Mornington Peninsula
+Shiraz,89,18.0,South Australia,McLaren Vale
+Shiraz-Viognier,89,24.0,South Australia,McLaren Vale
+Red Blend,88,21.0,South Australia,Langhorne Creek
+Cabernet Sauvignon,83,9.0,South Australia,
+Sangiovese,92,15.0,Victoria,Grampians
+Shiraz,92,20.0,South Australia,Barossa Valley
+Pinot Gris,85,20.0,Victoria,Yarra Valley
+Cabernet Sauvignon,84,12.0,South Australia,McLaren Vale
+Shiraz,84,10.0,Unspecified,
+Sauvignon Blanc,84,13.0,Unspecified,
+Shiraz,85,30.0,Unspecified,
+Pinot Noir,85,20.0,South Australia,Adelaide Hills
+Pinot Noir,85,33.0,New South Wales,
+Cabernet Sauvignon,91,55.0,South Australia,McLaren Vale
+Shiraz-Viognier,87,18.0,Victoria,Yarra Valley
+Cabernet Sauvignon,88,17.0,Western Australia,Margaret River
+Red Blend,84,28.0,South Australia,
+Chardonnay,91,35.0,Victoria,Yarra Valley
+Roussanne,91,24.0,South Australia,McLaren Vale
+Grenache,91,80.0,South Australia,Barossa Valley
+Cabernet Sauvignon,91,70.0,South Australia,
+Moscato,85,10.0,Victoria,
+Shiraz,85,17.0,Unspecified,
+Shiraz,92,22.0,South Australia,McLaren Vale
+Shiraz,92,35.0,South Australia,
+Shiraz,92,25.0,New South Wales,Hunter Valley
+Shiraz,89,20.0,South Australia,
+Chardonnay,86,,Unspecified,
+G-S-M,92,65.0,South Australia,McLaren Vale
+Muscat Hamburg,90,22.0,New South Wales,
+Chardonnay,90,22.0,Western Australia,Margaret River
+Shiraz,90,42.0,South Australia,McLaren Vale
+Cabernet Sauvignon,90,20.0,South Australia,Coonawarra
+Chardonnay,87,17.0,South Australia,
+Sauvignon Blanc,85,13.0,Unspecified,
+Shiraz,88,21.0,South Australia,Barossa Valley
+Sauvignon,88,30.0,Victoria,Yarra Valley
+Riesling,88,12.0,South Australia,Clare Valley
+Viognier,87,13.0,South Australia,
+Sauvignon Blanc,87,21.0,South Australia,Adelaide Hills
+Pinot Noir,91,39.0,Tasmania,
+Muscat,92,100.0,Victoria,Rutherglen
+Shiraz,89,19.0,Western Australia,
+Shiraz,89,35.0,New South Wales,Hunter Valley
+Shiraz-Viognier,89,23.0,Western Australia,Great Southern
+Pinot Noir,89,40.0,Victoria,Mornington Peninsula
+Mataro,91,75.0,South Australia,Barossa Valley
+Sparkling Blend,84,8.0,Unspecified,
+Moscato,84,17.0,South Australia,Barossa Valley
+Chardonnay,88,,South Australia,Adelaide Hills
+Shiraz,90,25.0,South Australia,Clare Valley
+Shiraz,90,28.0,South Australia,Barossa Valley
+Chardonnay,86,17.0,South Australia,McLaren Vale
+Cabernet Sauvignon,89,22.0,South Australia,McLaren Vale
+Chardonnay,84,7.0,Unspecified,
+Semillon-Sauvignon Blanc,84,20.0,Western Australia,Margaret River
+Cabernet Sauvignon,84,15.0,South Australia,Barossa Valley
+Riesling,89,18.0,South Australia,Clare Valley
+Riesling,89,18.0,Western Australia,
+Chardonnay,88,13.0,South Australia,Clare Valley
+Riesling,88,22.0,Western Australia,Margaret River
+Riesling,88,23.0,South Australia,Clare Valley
+Chardonnay,88,13.0,South Australia,Coonawarra
+Riesling,88,17.0,Western Australia,Great Southern
+Cabernet Sauvignon-Merlot,88,16.0,Unspecified,
+Cabernet Sauvignon,87,23.0,Victoria,Goulburn Valley
+Chardonnay,87,20.0,South Australia,Coonawarra
+Shiraz,92,40.0,South Australia,McLaren Vale
+Chardonnay,85,10.0,Unspecified,
+Cabernet Sauvignon,89,16.0,Western Australia,Margaret River
+Chardonnay,89,13.0,South Australia,
+Chardonnay-Semillon,89,18.0,South Australia,Barossa Valley
+Cabernet Sauvignon,89,20.0,South Australia,Barossa Valley
+Riesling,90,22.0,Western Australia,Margaret River
+Chardonnay,87,20.0,South Australia,Clare Valley
+Cabernet Sauvignon,87,20.0,South Australia,Barossa Valley
+Cabernet Sauvignon,87,17.0,South Australia,Barossa Valley
+Shiraz,90,20.0,South Australia,Barossa Valley
+Shiraz,90,20.0,Victoria,Strathbogie Ranges
+Sauvignon Blanc,85,16.0,South Australia,Eden Valley
+Sauvignon Blanc,85,17.0,Victoria,
+Shiraz,88,85.0,South Australia,McLaren Vale
+Riesling,87,13.0,Western Australia,
+Chardonnay,87,12.0,Unspecified,
+Semillon-Sauvignon Blanc,82,29.0,Western Australia,
+Chardonnay,84,12.0,South Australia,
+Shiraz,91,21.0,South Australia,McLaren Vale
+Cabernet Sauvignon,88,30.0,Western Australia,Margaret River
+Cabernet Sauvignon,88,13.0,New South Wales,Southern Highlands
+Cabernet Sauvignon,88,32.0,South Australia,Coonawarra
+Cabernet Sauvignon,88,16.0,Western Australia,Margaret River
+Cabernet Sauvignon-Merlot,88,19.0,Western Australia,Margaret River
+Cabernet Sauvignon,85,13.0,South Australia,Coonawarra
+Shiraz,85,8.0,Unspecified,
+Shiraz,85,10.0,South Australia,
+Chardonnay,84,26.0,Western Australia,Margaret River
+Vermentino,86,16.0,South Australia,McLaren Vale
+Grenache,93,75.0,South Australia,
+Shiraz,93,150.0,South Australia,Barossa Valley
+Chardonnay,86,10.0,Unspecified,
+Chardonnay,86,,Unspecified,
+Shiraz,88,85.0,South Australia,McLaren Vale
+G-S-M,91,19.0,South Australia,Barossa Valley
+G-S-M,91,28.0,South Australia,McLaren Vale
+Shiraz,95,85.0,South Australia,McLaren Vale
+Shiraz,88,25.0,South Australia,McLaren Vale
+Grenache,91,58.0,South Australia,Barossa Valley
+Riesling,91,35.0,South Australia,Clare Valley
+Cabernet Sauvignon,85,19.0,Victoria,Goulburn Valley
+Red Blend,85,10.0,Unspecified,
+Cabernet Sauvignon,85,19.0,South Australia,Coonawarra
+Shiraz,88,18.0,South Australia,Adelaide Hills
+Shiraz-Grenache,86,11.0,South Australia,
+Cabernet Sauvignon,86,15.0,South Australia,Langhorne Creek
+Shiraz,90,22.0,South Australia,Coonawarra
+Cabernet Sauvignon,89,19.0,Unspecified,
+Pinot Grigio,86,14.0,Unspecified,
+Shiraz,95,200.0,South Australia,Eden Valley
+Cabernet Sauvignon,95,500.0,South Australia,
+Grenache,95,185.0,South Australia,Barossa Valley
+Chardonnay,89,19.0,Victoria,Yarra Valley
+Shiraz,88,20.0,South Australia,Barossa Valley
+Red Blend,86,17.0,South Australia,Barossa Valley
+Cabernet Sauvignon,93,100.0,South Australia,
+Shiraz,92,105.0,South Australia,Barossa Valley
+Cabernet Sauvignon-Shiraz,91,36.0,South Australia,
+Cabernet Sauvignon,84,18.0,Western Australia,Margaret River
+Cabernet Sauvignon,84,12.0,South Australia,Adelaide Plains
+Chardonnay,82,14.0,Unspecified,
+Shiraz-Viognier,82,12.0,South Australia,
+Shiraz-Cabernet Sauvignon,81,5.0,Unspecified,
+Shiraz-Cabernet Sauvignon,81,9.0,Unspecified,
+Chardonnay,81,15.0,South Australia,
+Chardonnay,80,12.0,Unspecified,
+Chardonnay,85,10.0,Unspecified,
+Riesling,89,12.0,South Australia,Clare Valley
+Cabernet Sauvignon,89,22.0,Western Australia,Margaret River
+Pinot Noir,89,50.0,Victoria,Yarra Valley
+Riesling,89,17.0,South Australia,Clare Valley
+Riesling,89,25.0,South Australia,
+Red Blend,86,15.0,South Australia,
+Red Blend,92,75.0,Victoria,Yarra Valley
+Cabernet Sauvignon,86,22.0,South Australia,McLaren Vale
+Pinot Noir,89,40.0,Victoria,Yarra Valley
+Chardonnay,87,12.0,Unspecified,
+Shiraz,87,13.0,Unspecified,
+Durif,88,35.0,Victoria,Rutherglen
+Shiraz,87,22.0,Western Australia,Great Southern
+Shiraz,86,15.0,South Australia,McLaren Vale
+White Blend,92,19.0,South Australia,
+Shiraz,89,13.0,South Australia,Barossa Valley
+Chardonnay,89,35.0,South Australia,Adelaide Hills
+Cabernet Sauvignon,89,24.0,Western Australia,
+Pinot Noir,84,20.0,Western Australia,
+Chardonnay,89,17.0,South Australia,
+Shiraz,88,9.0,Unspecified,
+Riesling,91,25.0,Western Australia,Great Southern
+Chardonnay,84,13.0,South Australia,
+Sauvignon Blanc,83,8.0,Unspecified,
+Merlot,86,24.0,Western Australia,
+Chardonnay,86,8.0,Unspecified,
+Chardonnay,85,25.0,Victoria,Yarra Valley
+Chardonnay,85,11.0,South Australia,Riverland
+Chardonnay,85,21.0,Western Australia,
+Chardonnay,85,18.0,Victoria,Mornington Peninsula
+Chardonnay,87,25.0,South Australia,Adelaide Hills
+Shiraz,92,85.0,South Australia,McLaren Vale
+Chardonnay,92,42.0,Victoria,Yarra Valley
+Bordeaux-style Red Blend,92,110.0,Western Australia,Margaret River
+Champagne Blend,92,40.0,Tasmania,
+Cabernet Sauvignon,92,20.0,South Australia,Coonawarra
+Chardonnay,86,13.0,South Australia,McLaren Vale
+Shiraz,86,13.0,Western Australia,Margaret River
+Shiraz,90,15.0,South Australia,Barossa Valley
+Pinot Noir,90,95.0,Victoria,Yarra Valley
+Cabernet Sauvignon,90,38.0,South Australia,Barossa Valley
+Shiraz,91,50.0,South Australia,Coonawarra
+Shiraz,91,20.0,South Australia,Coonawarra
+Shiraz,91,22.0,South Australia,Padthaway
+Shiraz,89,35.0,Western Australia,Margaret River
+Syrah,94,225.0,South Australia,
+Pinot Noir,90,65.0,Victoria,Yarra Valley
+Pinot Grigio,87,17.0,South Australia,Adelaide Hills
+Shiraz,87,50.0,South Australia,Barossa Valley
+Malbec,82,15.0,New South Wales,Orange
+Viognier,82,30.0,Victoria,Pyrenees
+Shiraz,88,18.0,New South Wales,
+Chardonnay,89,20.0,South Australia,Coonawarra
+Cabernet Sauvignon,91,35.0,South Australia,
+Chardonnay,91,18.0,South Australia,Adelaide Hills
+Cabernet Sauvignon,91,65.0,South Australia,McLaren Vale
+Shiraz,91,85.0,South Australia,McLaren Vale
+Shiraz,91,30.0,South Australia,McLaren Vale
+Shiraz,90,30.0,South Australia,McLaren Vale
+Viognier,90,12.0,South Australia,
+Shiraz,91,22.0,South Australia,McLaren Vale
+Shiraz,92,56.0,Victoria,Heathcote
+Chardonnay,92,21.0,Western Australia,Great Southern
+Shiraz,92,60.0,Victoria,Pyrenees
+Sémillon,92,67.0,New South Wales,Hunter Valley
+Chardonnay,92,20.0,Western Australia,Margaret River
+Pinot Noir,92,56.0,Victoria,Mornington Peninsula
+Chardonnay,90,17.0,South Australia,
+Shiraz,90,20.0,South Australia,Clare Valley
+Cabernet Sauvignon,90,35.0,South Australia,Coonawarra
+Rhône-style White Blend,90,16.0,Victoria,
+Shiraz,90,20.0,South Australia,Langhorne Creek
+Shiraz,91,25.0,South Australia,McLaren Vale
+Shiraz,91,90.0,South Australia,Barossa Valley
+Pinot Noir,91,65.0,Victoria,Mornington Peninsula
+Cabernet Sauvignon,86,65.0,South Australia,McLaren Vale
+Red Blend,87,10.0,South Australia,
+Shiraz,87,22.0,South Australia,McLaren Vale
+Shiraz,87,27.0,Victoria,Rutherglen
+Shiraz,87,10.0,Unspecified,
+Chardonnay,87,9.0,Unspecified,
+Shiraz,87,12.0,Unspecified,
+Shiraz,93,100.0,South Australia,Barossa Valley
+Riesling,87,11.0,Victoria,Alpine Valleys
+Shiraz-Grenache,85,19.0,South Australia,McLaren Vale
+Chardonnay,85,15.0,South Australia,McLaren Vale
+G-S-M,90,40.0,South Australia,Barossa Valley
+Grenache-Shiraz,90,35.0,South Australia,McLaren Vale
+Syrah,93,110.0,South Australia,
+Shiraz,92,50.0,South Australia,McLaren Vale
+Syrah,92,165.0,South Australia,
+Chardonnay,85,18.0,South Australia,
+Pinot Noir,91,,Victoria,Yarra Valley
+Shiraz,86,45.0,South Australia,Clare Valley
+Rhône-style Red Blend,85,10.0,South Australia,
+Chardonnay,85,12.0,South Australia,
+Chardonnay,85,11.0,South Australia,Barossa Valley
+Chardonnay,83,11.0,Western Australia,
+Chardonnay,83,12.0,South Australia,Adelaide Plains
+Cabernet Sauvignon-Shiraz,90,23.0,South Australia,Barossa Valley
+Viognier,90,29.0,South Australia,
+Cabernet Sauvignon,90,40.0,Western Australia,Margaret River
+Pinot Noir,87,38.0,Victoria,Mornington Peninsula
+Cabernet Sauvignon,92,33.0,South Australia,
+Cabernet Sauvignon,92,50.0,South Australia,
+Shiraz,91,28.0,South Australia,Clare Valley
+Chardonnay,86,17.0,Western Australia,
+Cabernet Sauvignon,88,12.0,South Australia,
+Pinot Noir,88,20.0,Victoria,Yarra Valley
+Chardonnay,94,50.0,Western Australia,Margaret River
+Rosé,86,25.0,South Australia,
+Petit Verdot,88,20.0,South Australia,McLaren Vale
+Chardonnay,88,17.0,South Australia,
+Shiraz-Viognier,88,20.0,Victoria,Yarra Valley
+Shiraz,88,24.0,South Australia,Barossa Valley
+Shiraz,90,17.0,South Australia,Barossa Valley
+Shiraz,86,12.0,South Australia,McLaren Vale
+Chardonnay,90,30.0,New South Wales,Orange
+Chardonnay,90,35.0,Victoria,Yarra Valley
+Riesling,93,32.0,South Australia,Eden Valley
+Cabernet Sauvignon,93,60.0,South Australia,McLaren Vale
+Sémillon,93,47.0,New South Wales,Hunter Valley
+Cabernet Sauvignon,88,17.0,South Australia,Clare Valley
+Shiraz,93,75.0,South Australia,McLaren Vale
+Shiraz,83,10.0,Unspecified,
+Verdelho,84,13.0,New South Wales,Hunter Valley
+Roussanne,84,29.0,South Australia,McLaren Vale
+Shiraz-Cabernet,87,75.0,South Australia,McLaren Vale
+Red Blend,83,15.0,South Australia,Barossa Valley
+Chardonnay,94,89.0,Western Australia,Margaret River
+Shiraz,94,65.0,South Australia,
+Sauvignon Blanc,85,12.0,South Australia,
+Pinot Grigio,85,10.0,Unspecified,
+Pinot Grigio,85,,Unspecified,
+Red Blend,87,16.0,South Australia,Barossa Valley
+Shiraz,91,29.0,South Australia,McLaren Vale
+Viognier,91,17.0,South Australia,
+Cabernet Sauvignon,91,250.0,Western Australia,Margaret River
+Pinot Noir,85,25.0,Victoria,Mornington Peninsula
+Grenache,85,13.0,South Australia,Langhorne Creek
+Riesling,85,10.0,South Australia,
+Shiraz,85,11.0,South Australia,Barossa Valley
+Pinot Noir,89,22.0,Victoria,Beechworth
+Pinot Noir,89,20.0,Victoria,Yarra Valley
+Muscadelle,99,300.0,Victoria,Rutherglen
+Shiraz,96,85.0,South Australia,McLaren Vale
+Chardonnay,94,125.0,Victoria,
+Sangiovese,87,18.0,South Australia,McLaren Vale
+Riesling,86,13.0,South Australia,Barossa Valley
+Shiraz,93,150.0,South Australia,Barossa Valley
+Cabernet Sauvignon,93,60.0,South Australia,Clare Valley
+Cabernet Sauvignon,93,43.0,Western Australia,Margaret River
+Shiraz-Cabernet Sauvignon,89,17.0,South Australia,Langhorne Creek
+Red Blend,88,17.0,South Australia,Langhorne Creek
+Shiraz,92,50.0,South Australia,Padthaway
+Cabernet Sauvignon,92,50.0,South Australia,Barossa Valley
+Viognier,87,14.0,South Australia,
+Cabernet Sauvignon,87,13.0,Unspecified,
+Sémillon,89,18.0,South Australia,Barossa Valley
+Pinot Noir,89,20.0,Victoria,Yarra Valley
+Riesling,89,17.0,South Australia,Adelaide Hills
+Shiraz,90,12.0,South Australia,
+Riesling,90,20.0,South Australia,Clare Valley
+Cabernet Sauvignon,89,17.0,South Australia,Langhorne Creek
+Pinot Grigio,85,8.0,Unspecified,
+Pinot Grigio,85,10.0,South Australia,
+Shiraz-Cabernet Sauvignon,87,15.0,Unspecified,
+Savagnin,87,15.0,South Australia,Langhorne Creek
+Chardonnay,84,15.0,South Australia,McLaren Vale
+Chardonnay,84,17.0,South Australia,Coonawarra
+Chardonnay,84,19.0,South Australia,Adelaide Hills
+Chardonnay,84,16.0,Victoria,Yarra Valley
+Grenache,88,30.0,South Australia,Clare Valley
+Pinot Noir,88,42.0,Victoria,Yarra Valley
+Cabernet Sauvignon,92,38.0,South Australia,Barossa Valley
+Viognier,86,16.0,South Australia,McLaren Vale
+Riesling,85,11.0,Western Australia,
+Shiraz,85,20.0,South Australia,McLaren Vale
+Shiraz,90,22.0,South Australia,Barossa Valley
+Red Blend,87,20.0,South Australia,Clare Valley
+Shiraz,88,15.0,Western Australia,Margaret River
+Verdelho,87,15.0,South Australia,Langhorne Creek
+Grenache,88,19.0,South Australia,McLaren Vale
+Shiraz-Cabernet Sauvignon,87,15.0,South Australia,
+Viognier,87,14.0,Victoria,Goulburn Valley
+Grenache,89,29.0,South Australia,McLaren Vale
+Shiraz-Mourvèdre,89,22.0,South Australia,Barossa Valley
+Shiraz,89,19.0,South Australia,
+G-S-M,89,65.0,South Australia,McLaren Vale
+Chardonnay,87,30.0,Victoria,Yarra Valley
+Shiraz,87,18.0,Victoria,
+Red Blend,87,10.0,South Australia,
+Sémillon,90,20.0,New South Wales,Hunter Valley
+Chardonnay,90,50.0,Western Australia,Margaret River
+Riesling,90,17.0,South Australia,Clare Valley
+Chardonnay,88,13.0,South Australia,
+Rosé,88,,Unspecified,
+Shiraz,87,11.0,Unspecified,
+Red Blend,87,20.0,South Australia,Clare Valley
+Chardonnay,85,13.0,Unspecified,
+Chardonnay,83,8.0,Unspecified,
+Cabernet Sauvignon-Merlot,89,17.0,Western Australia,Margaret River
+Sauvignon Blanc,89,16.0,Western Australia,Pemberton
+Merlot,89,86.0,South Australia,Wrattonbully
+Chardonnay,89,11.0,South Australia,
+Rosé,89,20.0,South Australia,Barossa Valley
+Shiraz,90,60.0,Victoria,Pyrenees
+Pinot Noir,89,45.0,South Australia,Adelaide Hills
+Shiraz,90,35.0,Victoria,Heathcote
+Shiraz,90,24.0,Western Australia,Margaret River
+Shiraz,90,50.0,South Australia,
+Shiraz,90,23.0,South Australia,Coonawarra
+Shiraz,94,83.0,South Australia,McLaren Vale
+Rosé,86,25.0,South Australia,
+Rosé,88,15.0,Victoria,
+Grenache,91,50.0,South Australia,
+Shiraz,91,20.0,South Australia,Barossa Valley
+Syrah,91,24.0,South Australia,Adelaide Hills
+Shiraz,92,70.0,South Australia,McLaren Vale
+Chardonnay,85,25.0,South Australia,Eden Valley
+White Blend,85,13.0,South Australia,
+Chardonnay,85,,Unspecified,
+Pinot Grigio,85,8.0,Unspecified,
+Tokay,91,140.0,Victoria,Rutherglen
+Mourvèdre,92,50.0,South Australia,Barossa Valley
+Sauvignon Blanc,90,15.0,Western Australia,Great Southern
+Red Blend,90,69.0,South Australia,
+Pinot Grigio,90,15.0,South Australia,
+Shiraz,90,20.0,South Australia,McLaren Vale
+Syrah,90,18.0,South Australia,Adelaide Hills
+Shiraz,92,34.0,South Australia,Barossa Valley
+Sangiovese,90,22.0,Victoria,Bendigo
+Chardonnay,89,45.0,Western Australia,Margaret River
+Shiraz,90,20.0,South Australia,McLaren Vale
+Shiraz,86,18.0,Western Australia,Pemberton
+Sauvignon Blanc,88,18.0,South Australia,Adelaide Hills
+Champagne Blend,87,25.0,Unspecified,
+Chardonnay,87,14.0,South Australia,Adelaide Hills
+Shiraz,87,14.0,New South Wales,Orange
+Cabernet Sauvignon,91,69.0,South Australia,
+Cabernet Sauvignon,91,25.0,South Australia,McLaren Vale
+Cabernet Sauvignon,91,,South Australia,Coonawarra
+Sauvignon Blanc-Semillon,91,20.0,Western Australia,Margaret River
+White Blend,87,17.0,South Australia,
+Shiraz,87,15.0,Western Australia,
+Cabernet Sauvignon,87,11.0,Unspecified,
+Cabernet Sauvignon-Merlot,87,15.0,Victoria,Yarra Valley
+Shiraz-Viognier,87,12.0,Western Australia,Great Southern
+Shiraz,87,15.0,South Australia,
+Red Blend,87,9.0,Western Australia,
+Riesling,85,,South Australia,Clare Valley
+Shiraz,85,11.0,South Australia,McLaren Vale
+Shiraz,85,14.0,Unspecified,
+Cabernet Sauvignon,85,7.0,Unspecified,
+Shiraz,85,12.0,South Australia,
+Grenache,86,24.0,South Australia,McLaren Vale
+Shiraz,92,30.0,Victoria,Bendigo
+Shiraz,91,72.0,South Australia,McLaren Vale
+Cabernet Sauvignon,91,35.0,South Australia,Coonawarra
+Riesling,91,20.0,South Australia,Clare Valley
+Riesling,91,35.0,South Australia,Clare Valley
+Riesling,91,22.0,South Australia,Clare Valley
+Cabernet Sauvignon,91,40.0,Western Australia,Margaret River
+Shiraz-Viognier,91,95.0,Victoria,Yarra Valley
+Red Blend,91,46.0,Western Australia,Margaret River
+Bordeaux-style Red Blend,91,55.0,Western Australia,Great Southern
+Riesling,91,35.0,Western Australia,Great Southern
+Rosé,86,24.0,South Australia,Barossa Valley
+Shiraz,93,50.0,South Australia,Barossa Valley
+Riesling,85,18.0,South Australia,
+White Blend,85,,South Australia,
+Shiraz,87,17.0,South Australia,Barossa Valley
+Shiraz,87,26.0,South Australia,McLaren Vale
+Chardonnay,87,25.0,South Australia,Adelaide Hills
+Riesling,90,18.0,South Australia,Clare Valley
+Riesling,90,16.0,South Australia,Clare Valley
+Sauvignon Blanc,90,18.0,South Australia,Adelaide Hills
+Shiraz,89,60.0,South Australia,McLaren Vale
+Rosé,87,13.0,South Australia,
+Sauvignon Blanc-Semillon,87,20.0,Western Australia,Margaret River
+Shiraz,90,65.0,South Australia,McLaren Vale
+Sparkling Blend,89,13.0,Unspecified,
+Red Blend,88,17.0,South Australia,Langhorne Creek
+Vermentino,88,18.0,South Australia,McLaren Vale
+Pinot Noir,84,18.0,South Australia,Adelaide Hills
+Pinot Gris,84,17.0,South Australia,Clare Valley
+Chardonnay,84,9.0,Unspecified,
+Sparkling Blend,83,28.0,South Australia,McLaren Vale
+Pinot Noir,83,55.0,Victoria,Mornington Peninsula
+Champagne Blend,83,25.0,South Australia,Barossa Valley
+Chardonnay,82,25.0,South Australia,McLaren Vale
+Pinot Noir,91,35.0,Tasmania,
+Riesling,90,40.0,Western Australia,Great Southern
+Chardonnay,90,42.0,Victoria,Yarra Valley
+Chardonnay,86,19.0,South Australia,Adelaide Hills
+Chardonnay,86,10.0,Unspecified,
+Chardonnay,86,15.0,Western Australia,
+Shiraz,92,40.0,Western Australia,
+Shiraz,89,40.0,South Australia,Barossa Valley
+Shiraz,89,19.0,Victoria,Heathcote
+Shiraz,89,60.0,Victoria,
+Cabernet Sauvignon,91,65.0,South Australia,McLaren Vale
+Cabernet Sauvignon,88,15.0,Western Australia,Margaret River
+Sparkling Blend,88,14.0,Victoria,
+Cabernet Sauvignon,88,16.0,South Australia,Langhorne Creek
+Chardonnay,88,15.0,New South Wales,Tumbarumba
+Sauvignon Blanc,88,15.0,South Australia,Adelaide Hills
+Shiraz,91,70.0,South Australia,Barossa Valley
+Shiraz,91,85.0,South Australia,McLaren Vale
+Shiraz,91,85.0,South Australia,McLaren Vale
+Cabernet Sauvignon,87,18.0,Unspecified,
+Chardonnay,88,25.0,South Australia,Eden Valley
+Chardonnay,83,9.0,Unspecified,
+Shiraz,90,20.0,South Australia,Barossa Valley
+Cabernet Sauvignon,90,15.0,South Australia,
+Grenache,92,60.0,South Australia,Barossa Valley
+Grenache,90,30.0,South Australia,McLaren Vale
+Shiraz,91,15.0,Victoria,
+Tokay,91,17.0,Victoria,Rutherglen
+Shiraz-Grenache,91,20.0,South Australia,McLaren Vale
+Chardonnay,90,66.0,Victoria,Mornington Peninsula
+Red Blend,92,20.0,South Australia,Barossa Valley
+Shiraz,92,75.0,South Australia,McLaren Vale
+Shiraz,94,39.0,South Australia,Barossa Valley
+Merlot,84,10.0,South Australia,
+Viognier,92,19.0,Victoria,Goulburn Valley
+Pinot Noir,90,17.0,South Australia,Adelaide Hills
+Pinot Noir,89,29.0,Tasmania,
+Shiraz-Mourvèdre,89,15.0,South Australia,
+Syrah,89,50.0,South Australia,
+Cabernet Sauvignon,89,22.0,Western Australia,Great Southern
+Chardonnay,91,32.0,South Australia,Adelaide Hills
+Shiraz,91,38.0,South Australia,Barossa Valley
+Riesling,91,15.0,South Australia,Eden Valley
+Rhône-style Red Blend,91,22.0,South Australia,Barossa Valley
+Grenache,91,37.0,South Australia,Barossa Valley
+Shiraz-Grenache,91,20.0,South Australia,McLaren Vale
+Chardonnay,91,24.0,South Australia,Adelaide Hills
+Riesling,91,18.0,South Australia,Clare Valley
+Riesling,91,40.0,South Australia,Eden Valley
+Riesling,91,25.0,South Australia,Eden Valley
+Chardonnay,91,35.0,Victoria,Yarra Valley
+Cabernet Sauvignon,87,17.0,South Australia,Barossa Valley
+Shiraz,90,40.0,South Australia,McLaren Vale
+Mourvèdre,89,20.0,South Australia,Barossa Valley
+Muscadelle,89,16.0,Victoria,Rutherglen
+Chardonnay,90,21.0,Western Australia,Great Southern
+Shiraz,90,85.0,South Australia,McLaren Vale
+Shiraz,90,85.0,South Australia,McLaren Vale
+Pinot Noir,89,20.0,Victoria,Yarra Valley
+Chardonnay,87,17.0,Western Australia,Margaret River
+Chardonnay,87,16.0,Western Australia,Great Southern
+Chardonnay,87,12.0,Western Australia,
+Chardonnay,87,17.0,Victoria,Mornington Peninsula
+Chardonnay,87,11.0,New South Wales,
+Pinot Noir,84,13.0,South Australia,Eden Valley
+Pinot Noir,88,20.0,Victoria,Yarra Valley
+Shiraz-Viognier,90,25.0,South Australia,McLaren Vale
+Riesling,90,17.0,South Australia,McLaren Vale
+Sémillon,92,48.0,New South Wales,Hunter Valley
+Shiraz,87,65.0,New South Wales,Gundagai
+Muscat,91,16.0,Victoria,Rutherglen
+Shiraz,96,110.0,South Australia,Barossa Valley
+Shiraz-Cabernet Sauvignon,95,80.0,South Australia,Barossa Valley
+White Blend,88,13.0,South Australia,Barossa Valley
+Cabernet Sauvignon-Merlot,89,41.0,Western Australia,Margaret River
+Chardonnay,84,9.0,South Australia,Coonawarra
+Chardonnay,84,13.0,New South Wales,Hunter Valley
+Chardonnay,84,13.0,South Australia,Padthaway
+Chardonnay,84,9.0,Unspecified,
+Chardonnay,84,17.0,Victoria,Yarra Valley
+Chardonnay,84,17.0,New South Wales,Hunter Valley
+Rosé,88,15.0,South Australia,
+Shiraz,88,22.0,South Australia,Clare Valley
+Chardonnay,88,10.0,Unspecified,
+Shiraz-Grenache,92,65.0,South Australia,McLaren Vale
+Shiraz,92,60.0,South Australia,McLaren Vale
+Shiraz,92,65.0,South Australia,Barossa Valley
+Riesling,92,25.0,South Australia,Eden Valley
+Shiraz,98,125.0,South Australia,Barossa Valley
+Shiraz,93,75.0,South Australia,Barossa Valley
+Shiraz,92,70.0,South Australia,McLaren Vale
+Shiraz,92,35.0,South Australia,Barossa Valley
+Chardonnay,88,15.0,Western Australia,Margaret River
+Merlot,84,18.0,South Australia,McLaren Vale
+Shiraz,84,15.0,South Australia,
+Merlot,84,11.0,Unspecified,
+Merlot,84,7.0,South Australia,
+Chardonnay,86,17.0,New South Wales,Hunter Valley
+Shiraz,90,17.0,South Australia,Barossa Valley
+Red Blend,87,16.0,South Australia,Barossa Valley
+Pinot Noir,87,47.0,Tasmania,
+Bordeaux-style Red Blend,91,50.0,South Australia,Coonawarra
+Cabernet Sauvignon,90,15.0,New South Wales,Hilltops
+Cabernet Sauvignon,94,54.0,Western Australia,Margaret River
+Cabernet Sauvignon,93,54.0,Western Australia,Margaret River
+Shiraz,91,,South Australia,Coonawarra
+Cabernet Sauvignon,93,100.0,South Australia,Wrattonbully
+Shiraz,93,89.0,South Australia,Barossa Valley
+Cabernet Sauvignon,93,83.0,South Australia,Clare Valley
+Shiraz,93,185.0,South Australia,McLaren Vale
+Chardonnay,92,30.0,Western Australia,Margaret River
+Riesling,92,20.0,South Australia,Clare Valley
+Cabernet Sauvignon,92,60.0,South Australia,Clare Valley
+Cabernet Sauvignon,83,13.0,South Australia,
+Shiraz,90,67.0,New South Wales,Hunter Valley
+Shiraz,88,30.0,South Australia,McLaren Vale
+Chardonnay,88,58.0,South Australia,Adelaide Hills
+Cabernet Sauvignon,88,26.0,South Australia,
+Shiraz,88,24.0,South Australia,Barossa Valley
+Pinot Noir,93,50.0,Victoria,Mornington Peninsula
+Chardonnay,88,17.0,Western Australia,
+Shiraz,90,40.0,Victoria,Heathcote
+Shiraz,90,65.0,South Australia,McLaren Vale
+Pinot Noir,83,27.0,Tasmania,
+Shiraz,83,8.0,South Australia,
+Roussanne,90,19.0,South Australia,Eden Valley
+Bordeaux-style Red Blend,90,31.0,Western Australia,Margaret River
+Sauvignon Blanc-Semillon,90,20.0,Western Australia,Margaret River
+Riesling,86,22.0,Western Australia,Margaret River
+Pinot Grigio,83,15.0,Unspecified,
+Grenache,92,30.0,South Australia,Barossa Valley
+Chardonnay,84,19.0,South Australia,Padthaway
+Chardonnay,86,13.0,South Australia,
+Chardonnay,86,10.0,South Australia,
+Viognier,86,25.0,South Australia,
+Shiraz,89,60.0,South Australia,McLaren Vale
+Shiraz-Malbec,88,15.0,South Australia,Langhorne Creek
+Shiraz,88,17.0,South Australia,McLaren Vale
+Pinot Noir,89,20.0,Victoria,
+Pinot Noir,89,17.0,South Australia,Adelaide Hills
+Bordeaux-style Red Blend,87,30.0,Victoria,Yarra Valley
+Pinot Noir,86,20.0,Victoria,Yarra Valley
+Pinot Noir,86,20.0,Victoria,Yarra Valley
+Mourvèdre,93,82.0,South Australia,Barossa Valley
+Cabernet Sauvignon,88,30.0,South Australia,Coonawarra
+Pinot Gris,88,18.0,South Australia,Adelaide Hills
+Shiraz,88,19.0,South Australia,Barossa Valley
+Shiraz,88,15.0,South Australia,
+Shiraz,89,95.0,Victoria,Heathcote
+Shiraz-Viognier,89,16.0,Western Australia,Great Southern
+Shiraz,89,30.0,New South Wales,Western Plains
+Shiraz,89,65.0,South Australia,McLaren Vale
+Shiraz,89,18.0,Western Australia,Margaret River
+Shiraz,89,175.0,South Australia,Clare Valley
+Shiraz,89,60.0,South Australia,Padthaway
+Shiraz,90,85.0,South Australia,McLaren Vale
+Chardonnay,90,15.0,Western Australia,Margaret River
+Shiraz,90,55.0,South Australia,McLaren Vale
+Chardonnay,89,37.0,Western Australia,
+Shiraz,89,14.0,Unspecified,
+White Blend,88,11.0,South Australia,McLaren Vale
+Red Blend,84,14.0,Unspecified,
+Sémillon,92,24.0,New South Wales,Hunter Valley
+Shiraz,87,25.0,South Australia,Barossa Valley
+Sparkling Blend,87,10.0,Unspecified,
+Sauvignon Blanc-Semillon,86,16.0,Western Australia,Margaret River
+Shiraz,93,149.0,South Australia,Barossa Valley
+Red Blend,89,21.0,South Australia,McLaren Vale
+Merlot,85,13.0,New South Wales,Orange
+Sémillon,87,20.0,New South Wales,Hunter Valley
+Sparkling Blend,86,13.0,Unspecified,
+Riesling,86,17.0,South Australia,Clare Valley
+Viognier,87,16.0,South Australia,
+Syrah,93,60.0,Victoria,Yarra Valley
+Shiraz,93,35.0,South Australia,McLaren Vale
+Chardonnay,85,10.0,Unspecified,
+Chardonnay,85,8.0,Unspecified,
+Pinot Noir,83,18.0,Victoria,Yarra Valley
+Chardonnay,83,10.0,Unspecified,
+Shiraz,83,15.0,Unspecified,
+Cabernet Sauvignon,94,90.0,Western Australia,
+Pinot Noir,92,60.0,Victoria,Yarra Valley
+Red Blend,92,65.0,South Australia,McLaren Vale
+Mourvèdre,92,50.0,South Australia,Barossa Valley
+Chardonnay,83,17.0,South Australia,Coonawarra
+Chardonnay,83,9.0,Unspecified,
+Chardonnay,83,15.0,South Australia,McLaren Vale
+Chardonnay,83,7.0,Unspecified,
+Chardonnay,83,6.0,Unspecified,
+Chardonnay,83,11.0,Unspecified,
+Chardonnay,83,12.0,South Australia,Adelaide Hills
+Chardonnay,83,11.0,Unspecified,
+Chardonnay,83,13.0,South Australia,Barossa Valley
+Riesling,91,28.0,South Australia,Eden Valley
+Shiraz,91,26.0,South Australia,Barossa Valley
+Sauvignon Blanc,92,25.0,South Australia,Adelaide Hills
+Rosé,86,13.0,South Australia,
+Bordeaux-style Red Blend,86,90.0,Victoria,Yarra Valley
+Chardonnay,86,21.0,South Australia,Eden Valley
+Mourvèdre,89,35.0,South Australia,McLaren Vale
+Shiraz,92,23.0,South Australia,Barossa Valley
+Grenache,94,90.0,South Australia,Barossa Valley
+Shiraz,90,47.0,Victoria,Heathcote
+Riesling,90,18.0,South Australia,Clare Valley
+Chardonnay,85,14.0,Victoria,
+Viognier,85,10.0,South Australia,
+Syrah,93,60.0,South Australia,
+Shiraz,87,85.0,South Australia,McLaren Vale
+Bordeaux-style Red Blend,87,29.0,Western Australia,Margaret River
+Riesling,86,10.0,Victoria,
+Cabernet Sauvignon,86,10.0,Unspecified,
+Pinot Gris,86,13.0,South Australia,Eden Valley
+Pinot Noir,87,24.0,Tasmania,
+Shiraz,85,5.0,Unspecified,
+Pinot Noir,85,20.0,South Australia,Adelaide Hills
+Riesling,89,20.0,South Australia,Clare Valley
+G-S-M,89,20.0,South Australia,Barossa Valley
+Shiraz,87,17.0,South Australia,Barossa Valley
+Shiraz,87,26.0,South Australia,McLaren Vale
+Chardonnay,90,55.0,South Australia,Adelaide Hills

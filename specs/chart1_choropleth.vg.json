@@ -1,0 +1,49 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Which states grow the most wine grapes?",
+    "width": "container",
+    "height": 420,
+    "autosize": {"type": "fit", "contains": "padding"},
+    "projection": {"type": "conicEqualArea", "rotate": [-132, 0], "parallels": [-18, -36]},
+    "layer": [
+        {
+        "data": {"url": "data/australia_states.topojson", "format": {"type": "topojson", "feature": "states"}},
+        "mark": {"type": "geoshape", "fill": "#e6e0dc", "stroke": "white"}
+        },
+        {
+        "data": {"url": "data/australia_states.topojson", "format": {"type": "topojson", "feature": "states"}},
+        "transform": [
+            {
+            "lookup": "properties.name",
+            "from": {
+                "data": {
+                "url": "data/crush_by_state.csv",
+                "format": {"type": "csv", "parse": {"tonnes": "number", "share_pct": "number"}}
+                },
+                "key": "state",
+                "fields": ["tonnes", "share_pct"]
+            }
+            },
+            {"filter": "datum.share_pct != null"}
+        ],
+        "mark": {"type": "geoshape", "stroke": "white", "strokeWidth": 1},
+        "encoding": {
+            "color": {
+            "field": "share_pct",
+            "type": "quantitative",
+            "title": "Share of national crush (%)",
+            "scale": {
+                "type": "threshold",
+                "domain": [1, 5, 20, 50],
+                "range": ["#f1dee1", "#e3b8bf", "#c98a96", "#a8505f", "#7b2d3b"]
+            }
+            },
+            "tooltip": [
+            {"field": "properties.name", "type": "nominal", "title": "State"},
+            {"field": "tonnes", "type": "quantitative", "title": "Tonnes crushed, 2023", "format": ",.0f"},
+            {"field": "share_pct", "type": "quantitative", "title": "Share of national crush (%)", "format": ".1f"}
+            ]
+        }
+        }
+    ]
+}

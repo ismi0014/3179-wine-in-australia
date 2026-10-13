@@ -1,0 +1,100 @@
+{
+    "$schema": "https://vega.github.io/schema/vega/v5.json",
+    "width": 640,
+    "height": 440,
+    "padding": {"left": 125, "right": 105, "top": 38, "bottom": 50},
+    "autosize": "none",
+    "title": {"text": "Where each grape is grown", "fontSize": 13, "anchor": "start", "offset": 14, "dx": -120},
+    "data": [
+        {
+        "name": "table",
+        "url": "data/sankey_links.csv",
+        "format": {"type": "csv", "parse": {"tonnes": "number", "frac": "number", "variety_rank": "number", "state_rank": "number"}}
+        },
+        {
+        "name": "leftNodes", "source": "table",
+        "transform": [
+            {"type": "aggregate", "groupby": ["variety", "variety_rank"], "fields": ["frac"], "ops": ["sum"], "as": ["total"]},
+            {"type": "stack", "field": "total", "sort": {"field": "variety_rank"}, "as": ["y0", "y1"]}
+        ]
+        },
+        {
+        "name": "rightNodes", "source": "table",
+        "transform": [
+            {"type": "aggregate", "groupby": ["state", "state_rank"], "fields": ["frac"], "ops": ["sum"], "as": ["total"]},
+            {"type": "stack", "field": "total", "sort": {"field": "state_rank"}, "as": ["y0", "y1"]}
+        ]
+        },
+        {
+        "name": "links", "source": "table",
+        "transform": [
+            {"type": "stack", "groupby": ["variety"], "field": "frac", "sort": {"field": "state_rank"}, "as": ["sy0", "sy1"]},
+            {"type": "stack", "groupby": ["state"], "field": "frac", "sort": {"field": "variety_rank"}, "as": ["ty0", "ty1"]},
+            {"type": "lookup", "from": "leftNodes", "key": "variety", "fields": ["variety"], "values": ["y0"], "as": ["ly0"]},
+            {"type": "lookup", "from": "rightNodes", "key": "state", "fields": ["state"], "values": ["y0"], "as": ["ry0"]},
+            {"type": "formula", "expr": "14", "as": "sx"},
+            {"type": "formula", "expr": "(datum.ly0 + datum.sy0 + datum.frac / 2) * height", "as": "sy"},
+            {"type": "formula", "expr": "width - 14", "as": "tx"},
+            {"type": "formula", "expr": "(datum.ry0 + datum.ty0 + datum.frac / 2) * height", "as": "ty"},
+            {"type": "linkpath", "sourceX": "sx", "sourceY": "sy", "targetX": "tx", "targetY": "ty", "orient": "horizontal", "shape": "diagonal", "as": "path"}
+        ]
+        }
+    ],
+    "scales": [
+        {"name": "color", "type": "ordinal", "domain": ["Red", "White", "Other"], "range": ["#7b2d3b", "#d9b44a", "#cfc8c4"]}
+    ],
+    "legends": [
+        {
+        "fill": "color", "title": "Grape type", "orient": "bottom", "direction": "horizontal",
+        "encode": {"labels": {"update": {"text": {"signal": "datum.value === 'Other' ? 'Other varieties (mixed)' : datum.value"}}}}
+        }
+    ],
+    "marks": [
+        {
+        "type": "path", "from": {"data": "links"},
+        "encode": {
+            "enter": {"tooltip": {"signal": "{'Grape': datum.variety, 'State': datum.state, 'Tonnes': format(datum.tonnes, ',.0f')}"}},
+            "update": {
+            "path": {"field": "path"},
+            "fill": {"value": null},
+            "stroke": {"scale": "color", "field": "colour"},
+            "strokeWidth": {"signal": "max(datum.frac * height, 0.75)"},
+            "strokeOpacity": {"value": 0.65}
+            },
+            "hover": {"strokeOpacity": {"value": 0.95}}
+        }
+        },
+        {
+        "type": "rect", "from": {"data": "leftNodes"}, "interactive": false,
+        "encode": {"update": {
+            "x": {"value": 0}, "width": {"value": 14},
+            "y": {"signal": "datum.y0 * height"}, "y2": {"signal": "datum.y1 * height"},
+            "fill": {"value": "#2b2226"}, "stroke": {"value": "white"}, "strokeWidth": {"value": 1}
+        }}
+        },
+        {
+        "type": "rect", "from": {"data": "rightNodes"}, "interactive": false,
+        "encode": {"update": {
+            "x": {"signal": "width - 14"}, "width": {"value": 14},
+            "y": {"signal": "datum.y0 * height"}, "y2": {"signal": "datum.y1 * height"},
+            "fill": {"value": "#2b2226"}, "stroke": {"value": "white"}, "strokeWidth": {"value": 1}
+        }}
+        },
+        {
+        "type": "text", "from": {"data": "leftNodes"}, "interactive": false,
+        "encode": {"update": {
+            "x": {"value": -6}, "y": {"signal": "(datum.y0 + datum.y1) / 2 * height"},
+            "align": {"value": "right"}, "baseline": {"value": "middle"},
+            "fontSize": {"value": 12}, "fill": {"value": "#2b2226"}, "text": {"field": "variety"}
+        }}
+        },
+        {
+        "type": "text", "from": {"data": "rightNodes"}, "interactive": false,
+        "encode": {"update": {
+            "x": {"signal": "width + 6"}, "y": {"signal": "(datum.y0 + datum.y1) / 2 * height"},
+            "align": {"value": "left"}, "baseline": {"value": "middle"},
+            "fontSize": {"value": 12}, "fontWeight": {"value": "bold"}, "fill": {"value": "#2b2226"}, "text": {"field": "state"}
+        }}
+        }
+    ]
+}

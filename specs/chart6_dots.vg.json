@@ -1,0 +1,31 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": "container",
+    "height": 400,
+    "autosize": {"type": "fit", "contains": "padding"},
+    "projection": {"type": "conicEqualArea", "rotate": [-132, 0], "parallels": [-18, -36]},
+    "layer": [
+        {
+        "data": {"url": "data/australia_south.topojson", "format": {"type": "topojson", "feature": "states"}},
+        "mark": {"type": "geoshape", "fill": "#ece7e3", "stroke": "white"}
+        },
+        {
+        "data": {"url": "data/dots.csv"},
+        "mark": {"type": "circle", "size": 8, "opacity": 0.75},
+        "encoding": {
+            "longitude": {"field": "longitude", "type": "quantitative"},
+            "latitude": {"field": "latitude", "type": "quantitative"},
+            "color": {
+            "field": "type",
+            "type": "nominal",
+            "title": "Grape type",
+            "scale": {"domain": ["Red", "White"], "range": ["#7b2d3b", "#d9b44a"]}
+            },
+            "tooltip": [
+            {"field": "region", "type": "nominal", "title": "Region"},
+            {"field": "type", "type": "nominal", "title": "Grape type"}
+            ]
+        }
+        }
+    ]
+}

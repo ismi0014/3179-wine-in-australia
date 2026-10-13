@@ -1,0 +1,40 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Where are the biggest wine regions?",
+    "width": "container",
+    "height": 420,
+    "autosize": {"type": "fit", "contains": "padding"},
+    "projection": {"type": "conicEqualArea", "rotate": [-132, 0], "parallels": [-18, -36]},
+    "layer": [
+      {
+        "data": {"url": "data/australia_states.topojson", "format": {"type": "topojson", "feature": "states"}},
+        "mark": {"type": "geoshape", "fill": "#e6e0dc", "stroke": "white"}
+      },
+      {
+        "data": {"url": "data/regions.csv"},
+        "mark": {"type": "circle", "opacity": 0.75, "stroke": "white", "strokeWidth": 0.5},
+        "encoding": {
+            "longitude": {"field": "longitude", "type": "quantitative"},
+            "latitude": {"field": "latitude", "type": "quantitative"},
+            "size": {
+            "field": "tonnes",
+            "type": "quantitative",
+            "title": "Tonnes crushed, 2023",
+            "scale": {"range": [10, 1800]}
+            },
+            "color": {
+            "field": "top_colour",
+            "type": "nominal",
+            "title": "Main grape type",
+            "scale": {"domain": ["Red", "White"], "range": ["#7b2d3b", "#d9b44a"]}
+            },
+            "order": {"field": "tonnes", "type": "quantitative", "sort": "descending"},
+            "tooltip": [
+            {"field": "region", "type": "nominal", "title": "Region"},
+            {"field": "state", "type": "nominal", "title": "State"},
+            {"field": "tonnes", "type": "quantitative", "title": "Tonnes crushed, 2023", "format": ",.0f"}
+            ]
+         }
+      }
+    ]
+}

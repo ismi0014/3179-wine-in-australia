@@ -1,0 +1,42 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Does paying more get you a better wine?",
+    "width": "container",
+    "height": 350,
+    "autosize": {"type": "fit", "contains": "padding"},
+    "data": {"url": "data/reviews_au.csv"},
+    "transform": [
+        {"filter": "datum.price != null && datum.price <= 200"}
+    ],
+    "encoding": {
+        "x": {
+        "field": "price",
+        "type": "quantitative",
+        "scale": {"type": "log", "domain": [5, 200]},
+        "title": "Bottle price (US$, log scale)"
+        },
+        "y": {
+        "field": "points",
+        "type": "quantitative",
+        "scale": {"domain": [80, 100]},
+        "title": "Expert score (out of 100)"
+        }
+    },
+    "layer": [
+        {
+        "mark": {"type": "circle", "size": 35, "opacity": 0.25, "color": "#7b2d3b"},
+        "encoding": {
+            "tooltip": [
+            {"field": "variety", "type": "nominal", "title": "Grape"},
+            {"field": "region", "type": "nominal", "title": "Region"},
+            {"field": "price", "type": "quantitative", "title": "Price (US$)"},
+            {"field": "points", "type": "quantitative", "title": "Score"}
+            ]
+        }
+        },
+        {
+        "transform": [{"loess": "points", "on": "price", "bandwidth": 0.5}],
+        "mark": {"type": "line", "color": "#d9b44a", "strokeWidth": 4}
+        }
+    ]
+}

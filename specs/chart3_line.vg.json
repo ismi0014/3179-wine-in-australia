@@ -1,0 +1,22 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Australia's grape crush over time, red vs white",
+    "width": "container",
+    "height": 300,
+    "autosize": {"type": "fit", "contains": "padding"},
+    "data": {"url": "data/crush_by_year.csv"},
+    "mark": {"type": "line", "point": true, "strokeWidth": 3},
+    "encoding": {
+        "x": {"field": "year", "type": "ordinal", "title": "Vintage year", "axis": {"labelAngle": 0, "labelOverlap": true}},
+        "y": {"field": "tonnes", "type": "quantitative", "title": "Grapes crushed (tonnes)", "axis": {"format": "~s"}},
+        "color": {
+        "field": "type", "type": "nominal", "title": "Grape type",
+        "scale": {"domain": ["Red", "White"], "range": ["#7b2d3b", "#d9b44a"]}
+        },
+        "tooltip": [
+        {"field": "year", "type": "ordinal", "title": "Year"},
+        {"field": "type", "type": "nominal", "title": "Grape type"},
+        {"field": "tonnes", "type": "quantitative", "title": "Tonnes", "format": ",.0f"}
+        ]
+    }
+}

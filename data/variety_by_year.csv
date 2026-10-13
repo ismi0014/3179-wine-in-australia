@@ -1,0 +1,277 @@
+variety,colour,year,tonnes,share_pct
+Cabernet Sauvignon,Red,2001,247696,17.79
+Chardonnay,White,2001,246828,17.73
+Colombard,White,2001,39829,2.86
+Merlot,Red,2001,78750,5.66
+Muscat of Alexandria,White,2001,50719,3.64
+Petit Verdot,Red,2001,6029,0.43
+Pinot Gris,White,2001,181,0.01
+Pinot Noir,Red,2001,29806,2.14
+Riesling,White,2001,26236,1.88
+Sauvignon Blanc,White,2001,25736,1.85
+Shiraz,Red,2001,314690,22.6
+Sémillon,White,2001,88006,6.32
+Cabernet Sauvignon,Red,2002,264042,17.24
+Chardonnay,White,2002,257748,16.82
+Colombard,White,2002,61422,4.01
+Merlot,Red,2002,103922,6.78
+Muscat of Alexandria,White,2002,54372,3.55
+Petit Verdot,Red,2002,14422,0.94
+Pinot Gris,White,2002,149,0.01
+Pinot Noir,Red,2002,21071,1.38
+Riesling,White,2002,27614,1.8
+Sauvignon Blanc,White,2002,29134,1.9
+Shiraz,Red,2002,337964,22.06
+Sémillon,White,2002,101264,6.61
+Cabernet Sauvignon,Red,2003,235993,17.28
+Chardonnay,White,2003,239663,17.55
+Colombard,White,2003,56273,4.12
+Merlot,Red,2003,94941,6.95
+Muscat of Alexandria,White,2003,48470,3.55
+Petit Verdot,Red,2003,15523,1.14
+Pinot Gris,White,2003,503,0.04
+Pinot Noir,Red,2003,30325,2.22
+Riesling,White,2003,29572,2.17
+Sauvignon Blanc,White,2003,21365,1.56
+Shiraz,Red,2003,323347,23.68
+Sémillon,White,2003,76463,5.6
+Cabernet Sauvignon,Red,2004,327976,17.72
+Chardonnay,White,2004,319964,17.29
+Colombard,White,2004,71094,3.84
+Merlot,Red,2004,124440,6.72
+Muscat of Alexandria,White,2004,55156,2.98
+Petit Verdot,Red,2004,22883,1.24
+Pinot Gris,White,2004,2449,0.13
+Pinot Noir,Red,2004,44885,2.43
+Riesling,White,2004,35782,1.93
+Sauvignon Blanc,White,2004,41952,2.27
+Shiraz,Red,2004,451148,24.37
+Sémillon,White,2004,99432,5.37
+Cabernet Sauvignon,Red,2005,291088,15.68
+Chardonnay,White,2005,390785,21.06
+Colombard,White,2005,79490,4.28
+Merlot,Red,2005,135976,7.33
+Muscat of Alexandria,White,2005,50138,2.7
+Petit Verdot,Red,2005,23869,1.29
+Pinot Gris,White,2005,2888,0.16
+Pinot Noir,Red,2005,38838,2.09
+Riesling,White,2005,40400,2.18
+Sauvignon Blanc,White,2005,40104,2.16
+Shiraz,Red,2005,431819,23.27
+Sémillon,White,2005,97894,5.27
+Cabernet Sauvignon,Red,2006,279097,15.51
+Chardonnay,White,2006,401339,22.3
+Colombard,White,2006,76392,4.24
+Merlot,Red,2006,128507,7.14
+Muscat of Alexandria,White,2006,53324,2.96
+Petit Verdot,Red,2006,24090,1.34
+Pinot Gris,White,2006,6341,0.35
+Pinot Noir,Red,2006,35322,1.96
+Riesling,White,2006,39885,2.22
+Sauvignon Blanc,White,2006,41949,2.33
+Shiraz,Red,2006,426630,23.71
+Sémillon,White,2006,95353,5.3
+Cabernet Sauvignon,Red,2007,181051,13.33
+Chardonnay,White,2007,365577,26.91
+Colombard,White,2007,56288,4.14
+Merlot,Red,2007,90292,6.65
+Muscat of Alexandria,White,2007,42074,3.1
+Petit Verdot,Red,2007,14545,1.07
+Pinot Gris,White,2007,12577,0.93
+Pinot Noir,Red,2007,27625,2.03
+Riesling,White,2007,31164,2.29
+Sauvignon Blanc,White,2007,37856,2.79
+Shiraz,Red,2007,278060,20.47
+Sémillon,White,2007,74827,5.51
+Cabernet Sauvignon,Red,2008,255097,13.79
+Chardonnay,White,2008,436842,23.62
+Colombard,White,2008,60374,3.26
+Merlot,Red,2008,128678,6.96
+Muscat of Alexandria,White,2008,37839,2.05
+Petit Verdot,Red,2008,23454,1.27
+Pinot Gris,White,2008,27520,1.49
+Pinot Noir,Red,2008,46198,2.5
+Riesling,White,2008,39157,2.12
+Sauvignon Blanc,White,2008,66705,3.61
+Shiraz,Red,2008,443913,24.0
+Sémillon,White,2008,99559,5.38
+Cabernet Sauvignon,Red,2009,229301,14.47
+Chardonnay,White,2009,368951,23.29
+Colombard,White,2009,60944,3.85
+Merlot,Red,2009,112900,7.13
+Muscat of Alexandria,White,2009,55482,3.5
+Petit Verdot,Red,2009,17798,1.12
+Pinot Gris,White,2009,40640,2.57
+Pinot Noir,Red,2009,27238,1.72
+Riesling,White,2009,30319,1.91
+Sauvignon Blanc,White,2009,60766,3.84
+Shiraz,Red,2009,390757,24.67
+Sémillon,White,2009,63232,3.99
+Cabernet Sauvignon,Red,2010,206080,13.88
+Chardonnay,White,2010,298635,20.12
+Colombard,White,2010,47034,3.17
+Merlot,Red,2010,102038,6.87
+Muscat of Alexandria,White,2010,49629,3.34
+Petit Verdot,Red,2010,17935,1.21
+Pinot Gris,White,2010,40055,2.7
+Pinot Noir,Red,2010,39739,2.68
+Riesling,White,2010,31617,2.13
+Sauvignon Blanc,White,2010,73817,4.97
+Shiraz,Red,2010,377079,25.41
+Sémillon,White,2010,76330,5.14
+Cabernet Sauvignon,Red,2011,195579,14.05
+Chardonnay,White,2011,351027,25.22
+Colombard,White,2011,57107,4.1
+Merlot,Red,2011,96382,6.92
+Muscat of Alexandria,White,2011,54036,3.88
+Petit Verdot,Red,2011,14273,1.03
+Pinot Gris,White,2011,34547,2.48
+Pinot Noir,Red,2011,32943,2.37
+Riesling,White,2011,25916,1.86
+Sauvignon Blanc,White,2011,74179,5.33
+Shiraz,Red,2011,274023,19.69
+Sémillon,White,2011,70192,5.04
+Cabernet Sauvignon,Red,2012,196188,12.98
+Chardonnay,White,2012,339471,22.46
+Colombard,White,2012,56891,3.76
+Merlot,Red,2012,110729,7.33
+Muscat of Alexandria,White,2012,55582,3.68
+Petit Verdot,Red,2012,16358,1.08
+Pinot Gris,White,2012,51155,3.39
+Pinot Noir,Red,2012,35384,2.34
+Riesling,White,2012,30032,1.99
+Sauvignon Blanc,White,2012,82654,5.47
+Shiraz,Red,2012,335796,22.22
+Sémillon,White,2012,73116,4.84
+Cabernet Sauvignon,Red,2013,207693,13.16
+Chardonnay,White,2013,351994,22.3
+Colombard,White,2013,63391,4.02
+Merlot,Red,2013,110543,7.0
+Muscat of Alexandria,White,2013,73474,4.66
+Petit Verdot,Red,2013,18804,1.19
+Pinot Gris,White,2013,59992,3.8
+Pinot Noir,Red,2013,39740,2.52
+Riesling,White,2013,26908,1.71
+Sauvignon Blanc,White,2013,76638,4.86
+Shiraz,Red,2013,365367,23.15
+Sémillon,White,2013,63701,4.04
+Cabernet Sauvignon,Red,2014,202832,13.32
+Chardonnay,White,2014,326383,21.44
+Colombard,White,2014,52045,3.42
+Merlot,Red,2014,103280,6.78
+Muscat of Alexandria,White,2014,67234,4.42
+Petit Verdot,Red,2014,17258,1.13
+Pinot Gris,White,2014,60098,3.95
+Pinot Noir,Red,2014,31317,2.06
+Riesling,White,2014,19954,1.31
+Sauvignon Blanc,White,2014,88463,5.81
+Shiraz,Red,2014,380672,25.0
+Sémillon,White,2014,59146,3.88
+Cabernet Sauvignon,Red,2015,196489,12.45
+Chardonnay,White,2015,347863,22.04
+Colombard,White,2015,57735,3.66
+Merlot,Red,2015,100204,6.35
+Muscat of Alexandria,White,2015,50735,3.21
+Petit Verdot,Red,2015,20088,1.27
+Pinot Gris,White,2015,68925,4.37
+Pinot Noir,Red,2015,43436,2.75
+Riesling,White,2015,25976,1.65
+Sauvignon Blanc,White,2015,83638,5.3
+Shiraz,Red,2015,370975,23.5
+Sémillon,White,2015,62582,3.96
+Cabernet Sauvignon,Red,2016,224118,14.05
+Chardonnay,White,2016,358941,22.5
+Colombard,White,2016,47138,2.95
+Merlot,Red,2016,98854,6.2
+Muscat of Alexandria,White,2016,50127,3.14
+Petit Verdot,Red,2016,17734,1.11
+Pinot Gris,White,2016,63035,3.95
+Pinot Noir,Red,2016,42642,2.67
+Riesling,White,2016,22332,1.4
+Sauvignon Blanc,White,2016,88790,5.57
+Shiraz,Red,2016,379829,23.81
+Sémillon,White,2016,56297,3.53
+Cabernet Sauvignon,Red,2017,253313,14.87
+Chardonnay,White,2017,317253,18.63
+Colombard,White,2017,55733,3.27
+Merlot,Red,2017,110245,6.47
+Muscat of Alexandria,White,2017,62511,3.67
+Petit Verdot,Red,2017,20756,1.22
+Pinot Gris,White,2017,66129,3.88
+Pinot Noir,Red,2017,44293,2.6
+Riesling,White,2017,24884,1.46
+Sauvignon Blanc,White,2017,94334,5.54
+Shiraz,Red,2017,439939,25.83
+Sémillon,White,2017,61866,3.63
+Cabernet Sauvignon,Red,2018,211406,13.86
+Chardonnay,White,2018,346838,22.74
+Colombard,White,2018,48023,3.15
+Merlot,Red,2018,89687,5.88
+Muscat of Alexandria,White,2018,49427,3.24
+Petit Verdot,Red,2018,18764,1.23
+Pinot Gris,White,2018,64815,4.25
+Pinot Noir,Red,2018,45379,2.97
+Riesling,White,2018,21777,1.43
+Sauvignon Blanc,White,2018,78739,5.16
+Shiraz,Red,2018,364847,23.92
+Sémillon,White,2018,51386,3.37
+Cabernet Sauvignon,Red,2019,228119,14.62
+Chardonnay,White,2019,319112,20.46
+Colombard,White,2019,45395,2.91
+Merlot,Red,2019,107213,6.87
+Muscat of Alexandria,White,2019,53939,3.46
+Petit Verdot,Red,2019,19850,1.27
+Pinot Gris,White,2019,63302,4.06
+Pinot Noir,Red,2019,42727,2.74
+Riesling,White,2019,21083,1.35
+Sauvignon Blanc,White,2019,82147,5.27
+Shiraz,Red,2019,381819,24.48
+Sémillon,White,2019,48269,3.09
+Cabernet Sauvignon,Red,2020,202624,14.73
+Chardonnay,White,2020,258053,18.76
+Colombard,White,2020,42813,3.11
+Merlot,Red,2020,86134,6.26
+Muscat of Alexandria,White,2020,48899,3.55
+Petit Verdot,Red,2020,20070,1.46
+Pinot Gris,White,2020,63713,4.63
+Pinot Noir,Red,2020,32535,2.36
+Riesling,White,2020,15218,1.11
+Sauvignon Blanc,White,2020,78783,5.73
+Shiraz,Red,2020,339859,24.7
+Sémillon,White,2020,45695,3.32
+Cabernet Sauvignon,Red,2021,275125,15.21
+Chardonnay,White,2021,343455,18.99
+Colombard,White,2021,48378,2.67
+Merlot,Red,2021,108633,6.01
+Muscat of Alexandria,White,2021,54646,3.02
+Petit Verdot,Red,2021,23811,1.32
+Pinot Gris,White,2021,82769,4.58
+Pinot Noir,Red,2021,49350,2.73
+Riesling,White,2021,19152,1.06
+Sauvignon Blanc,White,2021,90686,5.01
+Shiraz,Red,2021,480162,26.54
+Sémillon,White,2021,56490,3.12
+Cabernet Sauvignon,Red,2022,223523,14.23
+Chardonnay,White,2022,324430,20.66
+Colombard,White,2022,43833,2.79
+Merlot,Red,2022,88345,5.63
+Muscat of Alexandria,White,2022,45180,2.88
+Petit Verdot,Red,2022,17972,1.14
+Pinot Gris,White,2022,66236,4.22
+Pinot Noir,Red,2022,40119,2.55
+Riesling,White,2022,18869,1.2
+Sauvignon Blanc,White,2022,81929,5.22
+Shiraz,Red,2022,391661,24.94
+Sémillon,White,2022,49914,3.18
+Cabernet Sauvignon,Red,2023,137123,11.48
+Chardonnay,White,2023,230226,19.28
+Colombard,White,2023,35630,2.98
+Merlot,Red,2023,60625,5.08
+Muscat of Alexandria,White,2023,37776,3.16
+Petit Verdot,Red,2023,14619,1.22
+Pinot Gris,White,2023,50677,4.24
+Pinot Noir,Red,2023,35938,3.01
+Riesling,White,2023,18605,1.56
+Sauvignon Blanc,White,2023,77906,6.52
+Shiraz,Red,2023,313895,26.28
+Sémillon,White,2023,44541,3.73

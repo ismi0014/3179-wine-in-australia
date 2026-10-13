@@ -1,0 +1,148 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "How reviewers scored each grape variety",
+  "width": 700,
+  "height": 420,
+  "padding": {"left": 10, "top": 10, "right": 10, "bottom": 10},
+  "layer": [
+    {
+      "data": {"url": "data/reviews_au.csv"},
+      "transform": [
+        {"filter": "datum.variety == 'Shiraz'"},
+        {"density": "points", "groupby": ["variety"], "extent": [80, 100], "bandwidth": 1.2, "steps": 80},
+        {"calculate": "-0", "as": "base"},
+        {"calculate": "-0 + 11.7 * datum.density", "as": "top"}
+      ],
+      "mark": {"type": "area", "interpolate": "monotone", "fill": "#7b2d3b", "fillOpacity": 1, "stroke": "white", "strokeWidth": 1.5},
+      "encoding": {
+        "x": {"field": "value", "type": "quantitative", "title": "Expert score (out of 100)", "scale": {"domain": [80, 100]}},
+        "y": {"field": "top", "type": "quantitative", "axis": null, "scale": {"domain": [-7.05, 1.7], "nice": false}},
+        "y2": {"field": "base"}
+      }
+    },
+    {
+      "data": {"url": "data/reviews_au.csv"},
+      "transform": [
+        {"filter": "datum.variety == 'Cabernet Sauvignon'"},
+        {"density": "points", "groupby": ["variety"], "extent": [80, 100], "bandwidth": 1.2, "steps": 80},
+        {"calculate": "-1", "as": "base"},
+        {"calculate": "-1 + 11.7 * datum.density", "as": "top"}
+      ],
+      "mark": {"type": "area", "interpolate": "monotone", "fill": "#7b2d3b", "fillOpacity": 1, "stroke": "white", "strokeWidth": 1.5},
+      "encoding": {
+        "x": {"field": "value", "type": "quantitative", "title": "Expert score (out of 100)", "scale": {"domain": [80, 100]}},
+        "y": {"field": "top", "type": "quantitative", "axis": null, "scale": {"domain": [-7.05, 1.7], "nice": false}},
+        "y2": {"field": "base"}
+      }
+    },
+    {
+      "data": {"url": "data/reviews_au.csv"},
+      "transform": [
+        {"filter": "datum.variety == 'Grenache'"},
+        {"density": "points", "groupby": ["variety"], "extent": [80, 100], "bandwidth": 1.2, "steps": 80},
+        {"calculate": "-2", "as": "base"},
+        {"calculate": "-2 + 11.7 * datum.density", "as": "top"}
+      ],
+      "mark": {"type": "area", "interpolate": "monotone", "fill": "#7b2d3b", "fillOpacity": 1, "stroke": "white", "strokeWidth": 1.5},
+      "encoding": {
+        "x": {"field": "value", "type": "quantitative", "title": "Expert score (out of 100)", "scale": {"domain": [80, 100]}},
+        "y": {"field": "top", "type": "quantitative", "axis": null, "scale": {"domain": [-7.05, 1.7], "nice": false}},
+        "y2": {"field": "base"}
+      }
+    },
+    {
+      "data": {"url": "data/reviews_au.csv"},
+      "transform": [
+        {"filter": "datum.variety == 'Red Blend'"},
+        {"density": "points", "groupby": ["variety"], "extent": [80, 100], "bandwidth": 1.2, "steps": 80},
+        {"calculate": "-3", "as": "base"},
+        {"calculate": "-3 + 11.7 * datum.density", "as": "top"}
+      ],
+      "mark": {"type": "area", "interpolate": "monotone", "fill": "#7b2d3b", "fillOpacity": 1, "stroke": "white", "strokeWidth": 1.5},
+      "encoding": {
+        "x": {"field": "value", "type": "quantitative", "title": "Expert score (out of 100)", "scale": {"domain": [80, 100]}},
+        "y": {"field": "top", "type": "quantitative", "axis": null, "scale": {"domain": [-7.05, 1.7], "nice": false}},
+        "y2": {"field": "base"}
+      }
+    },
+    {
+      "data": {"url": "data/reviews_au.csv"},
+      "transform": [
+        {"filter": "datum.variety == 'Pinot Noir'"},
+        {"density": "points", "groupby": ["variety"], "extent": [80, 100], "bandwidth": 1.2, "steps": 80},
+        {"calculate": "-4", "as": "base"},
+        {"calculate": "-4 + 11.7 * datum.density", "as": "top"}
+      ],
+      "mark": {"type": "area", "interpolate": "monotone", "fill": "#7b2d3b", "fillOpacity": 1, "stroke": "white", "strokeWidth": 1.5},
+      "encoding": {
+        "x": {"field": "value", "type": "quantitative", "title": "Expert score (out of 100)", "scale": {"domain": [80, 100]}},
+        "y": {"field": "top", "type": "quantitative", "axis": null, "scale": {"domain": [-7.05, 1.7], "nice": false}},
+        "y2": {"field": "base"}
+      }
+    },
+    {
+      "data": {"url": "data/reviews_au.csv"},
+      "transform": [
+        {"filter": "datum.variety == 'Chardonnay'"},
+        {"density": "points", "groupby": ["variety"], "extent": [80, 100], "bandwidth": 1.2, "steps": 80},
+        {"calculate": "-5", "as": "base"},
+        {"calculate": "-5 + 11.7 * datum.density", "as": "top"}
+      ],
+      "mark": {"type": "area", "interpolate": "monotone", "fill": "#d9b44a", "fillOpacity": 1, "stroke": "white", "strokeWidth": 1.5},
+      "encoding": {
+        "x": {"field": "value", "type": "quantitative", "title": "Expert score (out of 100)", "scale": {"domain": [80, 100]}},
+        "y": {"field": "top", "type": "quantitative", "axis": null, "scale": {"domain": [-7.05, 1.7], "nice": false}},
+        "y2": {"field": "base"}
+      }
+    },
+    {
+      "data": {"url": "data/reviews_au.csv"},
+      "transform": [
+        {"filter": "datum.variety == 'Riesling'"},
+        {"density": "points", "groupby": ["variety"], "extent": [80, 100], "bandwidth": 1.2, "steps": 80},
+        {"calculate": "-6", "as": "base"},
+        {"calculate": "-6 + 11.7 * datum.density", "as": "top"}
+      ],
+      "mark": {"type": "area", "interpolate": "monotone", "fill": "#d9b44a", "fillOpacity": 1, "stroke": "white", "strokeWidth": 1.5},
+      "encoding": {
+        "x": {"field": "value", "type": "quantitative", "title": "Expert score (out of 100)", "scale": {"domain": [80, 100]}},
+        "y": {"field": "top", "type": "quantitative", "axis": null, "scale": {"domain": [-7.05, 1.7], "nice": false}},
+        "y2": {"field": "base"}
+      }
+    },
+    {
+      "data": {"url": "data/reviews_au.csv"},
+      "transform": [
+        {"filter": "datum.variety == 'Sauvignon Blanc'"},
+        {"density": "points", "groupby": ["variety"], "extent": [80, 100], "bandwidth": 1.2, "steps": 80},
+        {"calculate": "-7", "as": "base"},
+        {"calculate": "-7 + 11.7 * datum.density", "as": "top"}
+      ],
+      "mark": {"type": "area", "interpolate": "monotone", "fill": "#d9b44a", "fillOpacity": 1, "stroke": "white", "strokeWidth": 1.5},
+      "encoding": {
+        "x": {"field": "value", "type": "quantitative", "title": "Expert score (out of 100)", "scale": {"domain": [80, 100]}},
+        "y": {"field": "top", "type": "quantitative", "axis": null, "scale": {"domain": [-7.05, 1.7], "nice": false}},
+        "y2": {"field": "base"}
+      }
+    },
+    {
+      "data": {"values": [
+        {"variety": "Shiraz", "y": 0.05},
+        {"variety": "Cabernet Sauvignon", "y": -0.95},
+        {"variety": "Grenache", "y": -1.95},
+        {"variety": "Red Blend", "y": -2.95},
+        {"variety": "Pinot Noir", "y": -3.95},
+        {"variety": "Chardonnay", "y": -4.95},
+        {"variety": "Riesling", "y": -5.95},
+        {"variety": "Sauvignon Blanc", "y": -6.95}
+      ]},
+      "mark": {"type": "text", "align": "right", "baseline": "bottom", "dx": -8, "fontSize": 12},
+      "encoding": {
+        "x": {"value": 0},
+        "y": {"field": "y", "type": "quantitative"},
+        "text": {"field": "variety", "type": "nominal"}
+      }
+    }
+  ],
+  "config": {"view": {"stroke": null}, "axis": {"grid": false}}
+}
