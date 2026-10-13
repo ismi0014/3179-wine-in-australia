@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Australian Wines</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.30.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.21.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0"></script>
+  <script src="vega_lite_vis.js" defer></script>
+</head>
+<body>
+  <h1>Where Australia's wine comes from</h1>
+
+  <h2>Where does it come from?</h2>
+  <p>More than half of Australia's wine grapes are crushed in South Australia.</p>
+  <div id="vis1" class="chart"></div>
+
+  <h2>Which regions grow the most?</h2>
+  <p>Three inland regions, the Riverland, Murray Darling, Swan Hill and the Riverina, crush more than two-thirds of Australia's wine grapes. Red circles mainly grow red grapes and gold circles mainly white.</p>
+  <div id="vis2" class="chart"></div>
+
+  <h2>What do we grow?</h2>
+  <div id="vis3" class="chart"></div>
+
+  <h2>Who grows what?</h2>
+  <p>Each large block is a state, and each tile inside it is a grape. A bigger tile means more grapes crushed in 2023. South Australia dominates, led by Shiraz, while Western Australia grows more Sauvignon Blanc than any other grape. Queensland (under 0.05% of the harvest) is left out.</p>
+  <div id="vis4" class="chart"></div>
+
+  <h2>Which grapes are rising and falling?</h2>
+  <p>Each square is one grape in one year. Darker means that grape made up more of Australia's harvest. </p>
+  <div id="vis5" class="chart"></div>
+
+  <h2>Where do red and white grapes grow?</h2>
+  <p>Each dot is 1,000 tonnes of grapes. A dense belt of dots follows the Murray River, mostly gold white-grape dots, with red dots clustered around Adelaide and the Barossa. Smaller groups sit in the Yarra Valley, Tasmania and the south-west of Western Australia.</p>
+  <div id="vis6" class="chart"></div>
+
+  <h2>How do experts score our wines?</h2>
+  <p>Each hump shows where a grape's scores cluster. A hump further right means higher scores, and a taller, narrower hump means reviewers scored it more consistently. Wine-red humps are red grapes and gold humps are white grapes.</p>
+  <div id="vis7" class="chart"></div>
+
+  <h2>Is expensive wine better?</h2>
+  <div id="vis8" class="chart"></div> 
+
+  <h2>What sets each region apart?</h2>
+  <p>Each line is one wine region. Follow a line from left to right to see how much it grows, how warm it is, how well its wines score and what its bottles cost. Click a state in the key to highlight its regions.</p>
+  <div id="vis9" class="chart"></div>
+
+  <h2>Where is each grape grown?</h2>
+  <p>Each band follows one grape into the state that grows it. A thicker band means more grapes crushed in 2023. Wine-red bands are red grapes and gold bands are white grapes. </p>
+  <div id="vis10" class="chart"></div>
+
+</body>
+</html>
